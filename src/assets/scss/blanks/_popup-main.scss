@@ -1,0 +1,106 @@
+.popup{
+    z-index: 10;
+    padding-top: 50px;
+    &__form{
+        width: 100%;
+        z-index: 2;
+        position: relative;
+    }
+    &__body{
+        height: 100%;
+        position: relative;
+        max-width: 350px;
+        margin: 0 auto;
+        overflow-y: scroll;
+    }
+    &::before{
+        background-color: #474d57;
+        opacity: 0.9;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+        content: '';
+    }
+    &__image{
+        display: none;
+        font-size: 0;
+    }
+
+    @media (min-width: 768px) {
+        padding: 0;
+        &__body{
+            //height: auto;
+            //position: absolute;
+            //top: 50%;
+            //left: 50%;
+            //transform: translate(-50%,-50%);
+            //z-index: 1;
+            padding: 20px 0;
+            @media (min-height: 670px){
+                padding: 0;
+            }
+        }
+        &__form{
+            @media (min-height: 670px) {
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                position: absolute;
+            }
+
+        }
+    }
+    @media (min-width: 1200px) {
+        opacity: 1;
+        &::before{
+            opacity: 0;
+        }
+        &__body{
+            font-size: 0;
+            width: 100%;
+            max-width: none;
+            padding: 40px 0;
+            overflow-y: visible;
+            @media (min-height: 770px) {
+                padding: 0;
+            }
+        }
+        &__form{
+            width: 60%;
+            max-width: 1152px;
+            margin: 0 auto;
+            @media (min-height: 770px) {
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                position: absolute;
+            }
+            
+        }
+        &__close{
+            border-radius: 0;
+            width: toRem(100);
+            height: toRem(100);
+            & > span{
+                width: toRem(20);
+                height: toRem(2);
+                opacity: 1;
+                &:nth-child(1){
+                    span{
+                        height: toRem(2);
+                        &:nth-child(1){
+                            width: toRem(6);
+                        }
+                        &:nth-child(2){
+                            width: toRem(10);
+                        }
+                    }
+
+                }
+            }
+        }
+    }
+}

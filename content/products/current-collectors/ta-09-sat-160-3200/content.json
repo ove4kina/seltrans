@@ -1,0 +1,112 @@
+{
+  "content": {
+    "id": "",
+    "name": "Токоприемник «ТА 09-СЭТ 160 3200»",
+    "url": "ta-09-sat-160-3200",
+    "description": "<p>Тяговый электрический аппарат, предназначенный для создания электрического контакта электрооборудования подвижного состава (ЭПС) с контактной сетью.</p><p>Верхний узел, включающий два полоза, позволяет снимать ток до 3200 А.</p><p>Снимаемый ток до 3200 А при движении и до 260 А на стоянке, от контактной сети напряжением 3000 В и скорости движения ЭПС до 160 км/ч.</p>",
+    "gallery": [
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/1.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/2.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/3.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/4.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/5.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/6.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/7.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/8.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/9.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/10.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/11.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/12.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/13.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/14.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/15.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/16.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/17.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/18.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/19.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/20.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-09-sat-160-3200/21.png",
+        "alt": ""
+      }
+    ],
+    "trains": [
+      {
+        "name": "2ЭС6",
+        "avatar": "/img/articles/trains/2es6.jpg",
+        "tags": [
+          {
+            "name": "ЭПС"
+          },
+          {
+            "name": "Наши клиенты"
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Модель ТА 09-СЭТ 160 3200",
+      "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+    }
+  }
+}

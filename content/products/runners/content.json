@@ -1,0 +1,218 @@
+{
+  "content": {
+    "en": {
+      "meta": {
+        "title": "Runners",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "placeholderUrl": "/img/products/runners/runners-placeholder.png",
+        "title": "Runner",
+        "hideButton": "Show more",
+        "description": "<p>Spring borne upper node of the current collector, interacting with the contact wire.<\/p><p class=\"bold\">Structure<\/p><p>The runner shows the slider contact on the contact wire. Runner form must to be comply with the specifications «GOST 32204» and «GOST 32679».<\/p><p>The runner consists of a middle part with a length of 1000-1200 mm, on which current-collecting elements are fixed: carbon inserts, or ceramic-metal plates and bevels (horns), providing the location of the contact wire on the working part of the runner in the places of air arrows and mates of the contact network.<\/p><p>The mass and electrical resistivity of the runner should be the smallest. For current collectors that provide removal of traction current up to 1.2 kA, the mass of the runners should not exceed 12 kg, and up to 3 kA - 18 kg.<\/p><p>The runner is connected to the frame with copper shunts to transfer current from the contact wire to the current collector body.<\/p><p class=\"bold\">Features of operating conditions.<\/p><p>The runner must provide a regulated mileage over the contact wire to the extreme wear of the current collection elements.<\/p><p>The runner must have sufficient mechanical strength. The bend, twist and shock loads affect from the side of the contact wire.<\/p><p>The significant electrical current that flows through the runner causes it to heat up, which can exceed 200°C.<\/p><p>During the period of icing and frost some precipitations on the contact wire, there may be an arc that the runner must withstand when a current collecting begins.<\/p><p>The runner's warranty period lasts at least 2 years, the useful period lasts at least 5 years.<\/p><p class=\"bold\">The advantages of our runners:<\/p><ul><li>provide easy installation work of the runner during the replacement;<\/li><li>the technology of welding the copper strip substrate to the carcass guarantees a uniform fit of the substrate;<\/li><li>carcass with powder coating provides long life and protection against the arced current collection;<\/li><li>runners with five coal inserts in the same row create the possibility of saving inserts when the runner restoring achieve the limit of wear;<\/li><li>In most carcass, it is possible to adjust the horn-bevels for optimal mating with the extreme inserts;<\/li><li>carcass with increased distance between rows of inserts, ensure uniform wear of inserts;<\/li><li>The 60-mm-wide runners with carbon inserts provide greater resource up to the extreme wear of the inserts.<\/li><\/ul><p>Each type of runner has its own structural features and installation dimensions. When you choose a runner, it is necessary to know the type of current collector and its permissible continuous current.<\/p>",
+        "filterName": "Show:",
+        "products": [
+          {
+            "name": "Runner P01-00-0001",
+            "url": "\/en\/products\/runners\/p-01-00-0001",
+            "avatar": "\/img\/products\/runners\/p-01-00-0001\/avatar.png",
+            "description": "Runner carcass provides versatility and lowest cost of labor for the installation of inserts.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": []
+          },
+          {
+            "name": "Runner P02-00-0001",
+            "url": "\/en\/products\/runners\/p-02-00-0001",
+            "avatar": "\/img\/products\/runners\/p-02-00-0001\/avatar.png",
+            "description": "The runner provides significant savings for the coal inserts when the runner restoring achieve the limit of wear.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": []
+          },
+          {
+            "name": "Runner P04-00-0001",
+            "url": "\/en\/products\/runners\/p-04-00-0001",
+            "avatar": "\/img\/products\/runners\/p-04-00-0001\/avatar.jpg",
+            "description": "The runner in the set (runner carcass with metal-ceramic contact platens) is designed to transfer electric current from the contact network to the electric rolling stock.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": []
+          },
+          {
+            "name": "Runner P05-00-0001",
+            "url": "\/en\/products\/runners\/p-05-00-0001",
+            "avatar": "\/img\/products\/runners\/p-05-00-0001\/avatar.png",
+            "description": "It has an increased distance between rows of inserts, ensuring uniform wear of inserts.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": []
+          },
+          {
+            "name": "Runner P06-00-0001",
+            "url": "\/en\/products\/runners\/p-06-00-0001",
+            "avatar": "\/img\/products\/runners\/p-06-00-0001\/avatar.png",
+            "description": "A feature of this runner is the ability to adjust the horn-bevels what allows to achieve especially exact settings of the current collector.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": []
+          },
+          {
+            "name": "Runner P07-00-0001",
+            "url": "\/en\/products\/runners\/p-07-00-0001",
+            "avatar": "\/img\/products\/runners\/p-07-00-0001\/avatar.png",
+            "description": "",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": []
+          },
+          {
+            "name": "Runner P09-00-0000",
+            "url": "\/en\/products\/runners\/p-09-00-0000",
+            "avatar": "\/img\/products\/runners\/p-09-00-0000\/avatar.png",
+            "description": "The 60-mm-wide runners with carbon inserts provide greater resource up to the extreme wear of the inserts.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": []
+          }
+        ]
+      }
+    },
+    "ru": {
+      "meta": {
+        "title": "Полоз",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "placeholderUrl": "/img/products/runners/runners-placeholder.png",
+        "title": "Полоз",
+        "hideButton": "Раскрыть",
+        "description": "<p>Подрессоренный верхний узел токоприемника, взаимодействующий с контактным проводом.<\/p><p class=\"bold\">Конструкция<\/p><p>Полоз обеспечивает скользящий контакт по контактному проводу. Очертание полоза должно удовлетворять требованиям «ГОСТ 32204» и «ГОСТ 32679».<\/p><p>Полоз состоит из средней части длиной 1000-1200 мм, на которой закреплены токосъёмные элементы - угольные вставки, либо металлокерамические пластины и скосы (рога), обеспечивающие расположение контактного провода на рабочей части полоза в местах воздушных стрелок и сопряжений контактной сети.<\/p><p>Масса и удельное электрическое сопротивление полоза должны быть наименьшими. Для токоприемников, обеспечивающих съем тягового тока до 1,2 кА масса полоза не должна превышать 12 кг, до 3 кА - 18 кг.<\/p><p>Для передачи тока с контактного провода на раму токоприемника полоз соединен с рамой посредством медных шунтов.<\/p><p class=\"bold\">Особенности условий эксплуатации.<\/p><p>Полоз должен обеспечивать регламентированный пробег по контактному проводу до предельного износа токосъемных элементов.<\/p><p>Полоз должен обладать достаточной механической прочностью на изгиб, скручивание и ударные нагрузки, воздействующие со стороны контактного провода.<\/p><p>Значительный электрический ток, протекающий по полозу, вызывает его нагрев, который может превышать 200°С.<\/p><p>В период гололедо-изморозевых отложений на контактном проводе при токосъеме может возникать дуга, которую должен выдерживать полоз.<\/p><p>Гарантийный срок службы полоза - не менее 2 лет,  срок эксплуатации - не менее 5 лет.<\/p><p class=\"bold\">Преимущества наших полозов:<\/p><ul><li>обеспечивают простоту монтажа полоза при его замене;<\/li><li>технология приварки медной ленты-подложки к каркасу гарантирует равномерное прилегание подложки;<\/li><li>порошковое покрытие каркаса обеспечивает длительный срок службы и защиту от дугового токосъема;<\/li><li>полоза с пятью угольными вставками в одном ряду создают возможность экономии вставок при восстановлении полоза по достижению предельного износа;<\/li><li>у большинства каркасов возможна регулировка рогов-скосов для оптимального сопряжения с крайними вставками;<\/li><li>каркасы с увеличенным расстоянием между рядами вставок, обеспечивают равномерный износ вставок;<\/li><li>полоза с угольными вставками шириной 60 мм обеспечивают больший ресурс до предельного износа вставок.<\/li><\/ul><p>Каждый тип полоза имеет свои конструктивные особенности и установочные размеры. При выборе полоза необходимо знать тип токоприемника и его допустимый длительной ток.<\/p>",
+        "filterName": "По назначению:",
+        "products": [
+          {
+            "name": "Полоз П01-00-0001",
+            "url": "\/ru\/products\/runners\/p-01-00-0001",
+            "avatar": "\/img\/products\/runners\/p-01-00-0001\/avatar.png",
+            "description": "Каркас полоза обеспечивает универсальность применения и наименьшие затраты труда на монтаж вставок.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ЭПС",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Полоз П02-00-0001",
+            "url": "\/ru\/products\/runners\/p-02-00-0001",
+            "avatar": "\/img\/products\/runners\/p-02-00-0001\/avatar.png",
+            "description": "Полоз обеспечивает значительную экономию угольных вставок при восстановлении полоза по достижению предельного износа.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": []
+          },
+          {
+            "name": "Полоз П04-00-0001",
+            "url": "\/ru\/products\/runners\/p-04-00-0001",
+            "avatar": "\/img\/products\/runners\/p-04-00-0001\/avatar.jpg",
+            "description": "Полоз в сборе (каркас полоза с металлокерамическими контактными пласинами) предназначен для передачи электрического тока из контактной сети на электроподвижной состав.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ЭПС",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Полоз П05-00-0001",
+            "url": "\/ru\/products\/runners\/p-05-00-0001",
+            "avatar": "\/img\/products\/runners\/p-05-00-0001\/avatar.png",
+            "description": "Имеет увеличенное расстояние между рядами вставок, обеспечивающие равномерный износ вставок.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ЭПС",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Полоз П06-00-0001",
+            "url": "\/ru\/products\/runners\/p-06-00-0001",
+            "avatar": "\/img\/products\/runners\/p-06-00-0001\/avatar.png",
+            "description": "Особенностью данного полоза — возможность регулировки рогов-скосов, что позволяет добиться особо точной настройки токоприемника.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ЭПС",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Полоз П07-00-0001",
+            "url": "\/ru\/products\/runners\/p-07-00-0001",
+            "avatar": "\/img\/products\/runners\/p-07-00-0001\/avatar.png",
+            "description": "Специально разработанная конструкция позволяет очищать контактную сеть от льда, обеспечивая хороший контакт в плохих погодных условиях.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": []
+          },
+          {
+            "name": "Полоз П09-00-0000",
+            "url": "\/ru\/products\/runners\/p-09-00-0000",
+            "avatar": "\/img\/products\/runners\/p-09-00-0000\/avatar.png",
+            "description": "Снабжен угольными вставками шириной 60 мм, что обеспечивает больший ресурс до предельного износа.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ЭПС",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

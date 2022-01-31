@@ -1,0 +1,348 @@
+{
+  "content": {
+    "en": {
+      "meta": {
+        "title": "History",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "Our history",
+        "1992" : {
+          "title": "23 november 1992",
+          "text": "<p>«Selena» LLP was created. Manufactured products: copper sponges for electromagnetic contactors and wipers for long-distance ERS. The first customers were the tram-trolleybus parks of selected cities of the Russian Federation, Kazakhstan, and the Baltic countries.</p><p>All the founders of «Selena» LLP studied at MIIT and then worked at VNIIZhT, researching the problem of current-collecting. Researches were conducted to identify optimal contacting pairs of materials.</p>",
+          "image": "The certificate of the Moscow Chamber of Registration on the establishment of a legal entity «Selena Transport»"
+        },
+        "1994": {
+          "title": "1994",
+          "text": "<p>The results of our researches were technologies for making contacts based on copper, which were proposed and then put in the MLRZ.</p>"
+        },
+        "1995": {
+          "title": "1995",
+          "text": "<p>«Selena» LLP was re-registered with «Selena Electric Transport» CJSC. We placed orders for products manufacturing at the electromechanical factory by Pushkin, Tula Arms Plant and the company «Polimash». The product range has expanded with the release of various kinds of collectors' runners for all types of ERS at that time. We also delivered delivery of products to railways and to electric locomotive repair plants throughout Russia.</p>",
+          "image": "1995, Tula Arms Plant"
+        },
+        "1998": {
+          "title": "1998",
+          "text": "<p>The team increased to 10 people working on the production of the most advanced technological solutions for current collection from the contact network at that time.</p>",
+          "images": [
+            {
+              "text": "1998, EP1 —  the first serial six-axle passenger locomotive"
+            }
+          ],
+          "bottom": "<p>Experimental drawings were developed, many tests of equipment designs were carried out.</p>"
+        },
+        "2001": {
+          "title": "2001—2002",
+          "sokol": {
+            "title": "«Falcon-250»",
+            "text": "<p>Work began on a dual-use current collector device, as it was required to solve the problem of supplying the electric train with both alternating and direct current.</p>"
+          },
+          "images": [
+            {
+              "text" : "2001, Asymmetric current collector for the project «Falcon-250»"
+            },
+            {
+              "text" : "2001, Torsion carriage asymmetric current collector"
+            },
+            {
+              "text" : "2001, Gukov M.A. near ES250"
+            },
+            {
+              "text": "In June 2001, at the stretch of railroad track, the Doroshikha-Lihoslavl electric train set a speed record of 236 km / h."
+            },
+            {
+              "text": "In June 2001, at the stretch of railroad track, the Doroshikha-Lihoslavl electric train set a speed record of 236 km / h."
+            }
+          ],
+          "bottom": "<p>Unfortunately, with the existing design, the current collector TP-250 cannot be used for continuous exploitation. The project itself did not pass the test, during which revealed 25 critical flaws of the electric train model. In the future, a model of that current collector formed the basis for the design of most of the models produced until today.</p>"
+        },
+        "2002": {
+          "title": "2002",
+          "titleBold": "Development of current collectors and runners for «ChS200»",
+          "description": "<p>On serial models (003 through 012), instead of the asymmetrical current collectors «AM18U» of the French company Fevlei, installed on prototypes, on serial locomotives «66E1» were installed domestic symmetrical two-stage current collectors of TSP-6th which was developed by I. A. Belyaev and V. A. Shiyan, whose design was parallel tested on the electric train ER200.</p>",
+          "images": [
+            {
+              "text": "ChS200-001 at the last preparations for transportation to the USSR"
+            },
+            {
+              "text": "ChS200-003 in serial production with our current collector"
+            },
+            {
+              "text": "2002, Mironos N.V. near a runner for the TSPth current collector"
+            },
+            {
+              "text": "In that year, our team began the detailed development of an experienced current collector"
+            }
+          ]
+        },
+        "2004": {
+          "title": "2002 — 2004",
+          "description": "<p>Our team of «S-Electric transport»  was gradually replenished with valuable personnel. We provided test trials of the latest current collector models, and we also attended conferences of the expert community, we shared and received valuable experience.</p><p>In 2003, the supply of runners began centrally in Roszheldorsnab through competitive bidding.</p>"
+        },
+        "2005": {
+          "title": "2005",
+          "description": "<p>The company began production of current collectors for electric rolling stock. Deliveries were made at JSC «UZZHM» and in small quantities on Ekaterinburg and West-Siberian railways. We decided to create our own production. Firstly, due to the difficult logistics of obtaining components. Secondly, due to delays in the supply of accessories.</p>",
+          "images": [
+            {
+              "text": "2007, 2ES6-001 - the first train of the series with our current collector"
+            },
+            {
+              "text": "2005, Испытание «Октябрьской железной дороги»"
+            },
+            {
+              "text": "2007, 2ES6-001 — the first train of the series with our current collector"
+            }
+          ]
+        },
+        "2006": {
+          "title": "2006",
+          "description": "<p>Создание собственного производства. На площади 400 кв.м. были размещены металлорежущее оборудование, складское и офисное помещения.</p>",
+          "image": "2006, ЧС200 — испытание скорости (260 км/ч)"
+        },
+        "2010": {
+          "title": "2006 — 2010",
+          "titleBold": "2009, Patent No. 2368513 certified",
+          "imageBold": "April 2009, DB «Systemtechnik», Germany",
+          "images": [
+            {
+              "text": "Authors: Mironos Nikolay Vasilyevich (RU), Tyurnin Pavel Georgievich (RU), Tibilov Alexander Taimurazovich (RU)."
+            },
+            {
+              "text": "Myronos N.V. with partners in Germany were testing a new model of a current collector."
+            }
+          ]
+        },
+        "2011": {
+          "title": "2011",
+          "description": "<p>We began to cooperate with the LLC «STM-Service». We supply current collectors, spare parts for the repair and technical maintenance of diesel locomotives.</p>"
+        },
+        "2013": {
+          "title": "2013",
+          "description": "<p>The laying of the foundation of the new workshop and the beginning of the construction of the «S-Electric transport» complex.</p>"
+        },
+        "2014": {
+          "title": "2014",
+          "titleBold": "We have passed the international certification of «IRIS».",
+          "description": "<p>The goal of the standard is to create a business management system that allows continuous improvements, emphasizing the prevention and reduction of the number of defects in the supply chain. </p>",
+          "images": [
+            {
+              "text": "2016, Extended Certificate «IRIS»"
+            },
+            {
+              "text": "2014, Zuev S.G. at the presentation of «IRIS» certificate."
+            }
+          ]
+        },
+        "2015": {
+          "title": "2015",
+          "description": "<p>The new workshop was fully ready and began to function. The stage of preparation of neighboring areas for the construction of new branches of production began.</p>",
+          "images": [
+            {
+              "text": "June 25, 2015, Sofrino. Completion of the construction work of the production department"
+            },
+            {
+              "text": "The first tests of current collectors for the «Swallows» began."
+            },
+            {
+              "text": "Был заключен договор с ООО «Уральские локомотивы» на поставку токоприемников для ЭПС «Ласточка»."
+            }
+          ]
+        },
+        "2016": {
+          "title": "2016",
+          "description": "<p>The area of the production workshop was increased by 200 sq.m. On the new square, it is planned to place a CNC tube bender.</p><p>A contract was concluded with LLC «RTKS» (in 2017 renamed to LLC «RailAlliance») for the supply of current collectors for the EP2D direct current electric train.</p>",
+          "images": [
+            {
+              "text": "Made the first experienced model to combat icing."
+            },
+            {
+              "text": "25 июня 2015, Софрино. Окончание строительных работ производственного цеха"
+            },
+            {
+              "text": "Made the first experienced model to combat icing."
+            }
+          ]
+        },
+        "2017": {
+          "title": "2017",
+          "description": "<p>The pipe-bending workshop was opened. We changed the arrangement of machines and equipment at the main production workshop with the aim of optimizing the manufacturing technology of current collectors. We also entered into an agreement with «RailAlliance» LLC for the supply of current collectors for the EP3D alternating current electric train.</p>"
+        }
+      }
+    },
+    "ru": {
+      "meta": {
+        "title": "История",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "Наша история",
+        "1992" : {
+          "title": "23 ноября 1992",
+          "text": "<p>Основана ТОО «Селена» . Выпускаемая продукция: медные губки для электромагнитных контакторов и стеклоочистители для магистрального ЭПС. Первыми заказчиками становятся трамвайно-троллейбусные парки отдельных городов РФ, Казахстана и стран Балтии.</p><p>Все учредители ТОО «Селена» учились в МИИТе и затем работали во ВНИИЖТе, занимаясь изучением проблем токосъема. Велись исследования оптимальных контактирующих пар материалов.</p>",
+          "image": "Свидетельство Московской Регистрационной палаты об учреждении юридического лица «Селена Транспорт»"
+        },
+        "1994": {
+          "title": "1994",
+          "text": "<p>Результатами наших исследований явились технологии по изготовлению контактов на основе меди, которые были предложены, а затем поставлены на МЛРЗ.</p>"
+        },
+        "1995": {
+          "title": "1995",
+          "text": "<p>ТОО «Селена» перерегистрировано в ЗАО «Селена Электротранспорт». Заказы на изготовление продукции размещались на Пушкинском электромеханическом  заводе, Тульском оружейном заводе и компании «Полимаш». Ассортимент выпускаемой продукции расширился за счет выпуска различных типов полозов токоприемника для всех видов ЭПС на тот момент. Осуществляется поставка продукции на ЖД и электровозоремонтные заводы всей России.</p>",
+          "image": "1995, Тульский оружейный завод"
+        },
+        "1998": {
+          "title": "1998",
+          "text": "<p>Коллектив увеличивается до 10 человек, работающие над производством на тот момент самых современных технологических решения для токосъема с контактной сети.</p>",
+          "images": [
+            {
+              "text": "1998, ЭП1 —  первый серийный пассажирский шестиосный электровоз"
+            },
+            {
+              "text": "Заготовительный участок ЗАО СЭТ 1998"
+            },
+            {
+              "text": "Сборочный цех ЗАО СЭТ 1999"
+            }
+          ],
+          "bottom": "<p>Разрабатываются опытные чертежи и проводится масса тестов конструкций оборудования.</p>"
+        },
+        "2001": {
+          "title": "2001—2002",
+          "sokol": {
+            "title": "«Сокол-250»",
+            "text": "<p>Начинается работа над токопримеником двойного питания, так как требуется решить задачу питания электропоезда как переменным, так и постоянным током.</p>"
+          },
+          "images": [
+            {
+              "text" : "2001, Ассиметрический токоприемник для проекта «Сокол-250»"
+            },
+            {
+              "text" : "2001, Торсионная каретка ассиметричного токоприемника"
+            },
+            {
+              "text" : "2001, Гуков М.А. возле ЭС250"
+            },
+            {
+              "text": "В июне 2001 года на перегоне Дорошиха — Лихославль электропоезд установил рекорд скорости в 236 км/ч."
+            },
+            {
+              "text": "В июне 2001 года на перегоне Дорошиха — Лихославль электропоезд установил рекорд скорости в 236 км/ч."
+            }
+          ],
+          "bottom": "<p>К сожалению, при существующей конструкции токоприемник ТП-250 не может быть использован для постоянной эксплуатации. Сам проект не прошел проверку, в ходе которой выявили 25 критических недостатков модели эдектропоезда. В дальнейшем, данная модель токоприемника легла в основу конструкции большинства производимых моделей и по сегодняшний день.</p>"
+        },
+        "2002": {
+          "title": "2002",
+          "titleBold": "Разработка токоприемников и полозов для «ЧС200»",
+          "description": "<p>На серийных моделях (с 003 по 012) вместо асимметричных токоприемников AM18U французской фирмы Fevlei, установленных на прототипы, на серийных электровозах 66Е1 были установлены отечественные симметричные двухступенчатые токоприемники ТСп-6м разработки И. А. Беляева и В. А. Шияна, конструкция которых параллельно испытывалась на электропоезде ЭР200.</p>",
+          "images": [
+            {
+              "text": "ЧС200-001 на последних приготовлениях к транспортировке в СССР"
+            },
+            {
+              "text": "ЧС200-003 в серийном производстве с уже нашим токоприемником"
+            },
+            {
+              "text": "2002, Миронос Н. В. рядом полоз для токоприемника ТСп-6м"
+            },
+            {
+              "text": "В этом году наш коллектив приступает к детальной разработке опытного образца токоприемника"
+            }
+          ]
+        },
+        "2004": {
+          "title": "2002 — 2004",
+          "description": "<p>Коллектив «С—Электротранспорт» постепенно пополняется ценными кадрами, проводятся тестовые испытания новейших моделей токоприемников, а также посещаем конференции экспертного сообщества, делимся и получаем ценный опыт.</p><p>В 2003 году поставка полозов начала осуществляться централизованно в Росжелдорснаб посредством конкурсных торгов.</p>"
+        },
+        "2005": {
+          "title": "2005",
+          "description": "<p>Компания начала выпуск токоприемников электроподвижного состава. Поставки осуществлялись на ОАО «УЗЖМ» и в небольших количествах на Екатеринобургскую и Западно-Сибирскую железные дороги. В связи со сложной логистикой получения комплектующих, а также задержек поставок  комплектующих появилась идея создать собственное производство.</p>",
+          "images": [
+            {
+              "text": "2005, Миронос Н.В. международная конференция в Италии"
+            },
+            {
+              "text": "2005, Испытание «Октябрьской железной дороги»"
+            },
+            {
+              "text": "2007, 2ЭС6-001 — первый поезд из серии с нашим токоприемником"
+            }
+          ]
+        },
+        "2006": {
+          "title": "2006",
+          "description": "<p>Создание собственного производства. На площади 400 кв.м. были размещены металлорежущее оборудование, складское и офисное помещения.</p>",
+          "image": "2006, ЧС200 — испытание скорости (260 км/ч)"
+        },
+        "2010": {
+          "title": "2006 — 2010",
+          "titleBold": "2009, Заверен патент №2368513",
+          "imageBold": "Апрель 2009, DB «Systemtechnik», Германия",
+          "images": [
+            {
+              "text": "Авторы: Миронос Николай Васильевич (RU), Тюрнин Павел Георгиевич (RU), Тибилов Александр Таймуразович (RU)."
+            },
+            {
+              "text": "Миронос Н. В. с партнерами в Германии тестируют новую модель токоприемника."
+            }
+          ]
+        },
+        "2011": {
+          "title": "2011",
+          "description": "<p>Мы начинаем сотрудничать с ООО «СТМ-Сервис». Мы поставляем токоприемники и запчасти для ремонта и сервисного обслуживания локомотивов.</p>"
+        },
+        "2013": {
+          "title": "2013",
+          "description": "<p>Закладка фундамента нового цеха и начало строительства комплекса «С—Электротрнаспорт».</p>"
+        },
+        "2014": {
+          "title": "2014",
+          "titleBold": "Мы прошли международную сертификацию «IRIS».",
+          "description": "<p>Целью стандарта является создание системы менеджмента бизнеса, которая позволяет проводить постоянные улучшения, придавая особое значение предотвращению и снижению числа дефектов в Цепи поставок.</p>",
+          "images": [
+            {
+              "text": "2016, Продленный сертификат «IRIS»"
+            },
+            {
+              "text": "2014, Зуев С.Г. на вручении сертификата IRIS."
+            }
+          ]
+        },
+        "2015": {
+          "title": "2015",
+          "description": "<p>Новый цех полностью готов и начинает функционировать. Начинается стадия подготовления соседних площадей под строительство новых ответвлений производства.</p>",
+          "images": [
+            {
+              "text": "25 июня 2015, Софрино. Окончание строительных работ производственного цеха"
+            },
+            {
+              "text": "Начинаются первые испытания токоприемников для «Ласточек»."
+            },
+            {
+              "text": "Был заключен договор с ООО «Уральские локомотивы» на поставку токоприемников для ЭПС «Ласточка»."
+            }
+          ]
+        },
+        "2016": {
+          "title": "2016",
+          "description": "<p>Увеличена площадь производственного цеха на 200 кв.м. На новой площади планируется размещение трубогибного станка с ЧПУ.</p><p>Заключен договор с  ООО «РТКС» (в 2017 г. переименован в ООО «РэйлАльянс») на поставку токоприемников для электропоезда постоянного тока ЭП2Д.</p>",
+          "images": [
+            {
+              "text": "25 июня 2015, Софрино. Окончание строительных работ производственного цеха"
+            },
+            {
+              "text": "25 июня 2015, Софрино. Окончание строительных работ производственного цеха"
+            },
+            {
+              "text": "Изготовлен первый опытный образец для борьбы с гололедом."
+            }
+          ]
+        },
+        "2017": {
+          "title": "2017",
+          "description": "<p>Открываем цех трубогибного производства. Изменение расстановки станков и оборудования в основном производственном цеху с целью оптимизации технологии производства токоприемников. Заключен договор с ООО «РэйлАльянс» на поставку токоприемников для  электропоезда переменного тока ЭП3Д.</p>"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+.to-history{
+    background-color: $darkbrown;
+    position: relative;
+    &__body{
+        padding: 60px 6.25% 52px;
+    }
+    &__text{
+
+        margin-bottom: 40px;
+    }
+    &__content{
+        width: span(3.3 of 4);
+    }
+    &__img{
+        width: 20%;
+        position: absolute;
+        bottom: 0;
+        height: 100%;
+        overflow: hidden;
+        &--right{
+            right: 0;
+            img{
+                left: 0;
+            }
+        }
+        img{
+            height: 100%;
+            position: absolute;
+            transform: translate(0,4%);
+
+        }
+        &--left{
+            display: none;
+        }
+    }
+    @media (min-width: 600px){
+        &__body{
+             padding: 115px 2.6%;
+             position: relative;
+             z-index: 2;
+        }
+        &__text{
+            margin-bottom: 30px;
+        }
+        &__content{
+            width: span(4.2 of 8);
+            margin: 0 auto;
+            text-align: center;
+        }
+        &__img{
+            width: 25%;
+            z-index: 1;
+            &--right{
+                height: 95%;
+            }
+            img{
+                height: 100%;
+            }
+            &--left{
+                display: block;
+                height: 90%;
+                left: 0;
+                img{
+                    right: 0;
+                    transform: translate(0,10%);
+                }
+            }
+        }
+    }
+    @media (min-width: 1200px){
+        background: $blue;
+        overflow: hidden;
+        &__body{
+            padding: 12.1666vw 0 10.4vw;
+            transform: translate(-20%,0);
+            // transition: 0.2s ease-out;
+        }
+        &__text{
+            margin: 0 auto 4.166666rem;
+            max-width: 752px;
+        }
+        &__content{
+            width: span(4.7 of 12);
+        }
+        &__img{
+            overflow: visible;
+            &--right{
+                height: 90%;
+                width: 29%;
+            }
+            &--left{
+                height: 90%;
+                width: 34%;
+
+            }
+        }
+    }
+}
+
+.text--to-history{
+    font-size: 21px;
+    line-height: 26px;
+    font-family: med;
+    color: #fff;
+    @media (min-width: 1200px){
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+}

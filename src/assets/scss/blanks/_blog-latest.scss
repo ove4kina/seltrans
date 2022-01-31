@@ -1,0 +1,194 @@
+.blog-latest{
+    padding-top: 40px;
+    padding-bottom: 70px;
+    & + .footer{
+        margin-top: 70px;
+    }
+    &--no-grid{
+        .grid{
+            display: none;
+        }
+    }
+    &__title{
+        margin-left: 6.25%;
+    }
+    &__list{
+        padding: 20px 0 40px;
+        white-space: nowrap;
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        -webkit-overflow-scrolling: touch;
+    }
+    &__button{
+        margin-left: 6.25%;
+        display: inline-block;
+    }
+    &__item{
+        display: inline-block;
+        vertical-align: top;
+        &:first-child{
+            margin-left: 6.25vw;
+        }
+        &:last-child{
+            margin-right: 6.25vw;
+        }
+        & + .blog-latest__item{
+            margin-left: 10px;
+        }
+    }
+    @media (min-width: 600px){
+        padding-top: 50px;
+        padding-bottom: 60px;
+        z-index: 2;
+        position: relative;
+        & + .footer{
+            margin-top: 60px;
+        }
+        &__title{
+            margin-left: 2.6%;
+            position: relative;
+            z-index: 2;
+        }
+        &__list{
+            padding: 25px 0 40px;
+            
+            position: relative;
+            z-index: 2; 
+        }
+        &__button{
+            margin-left: 2.6%;
+            position: relative;
+            z-index: 2;
+        }
+        &__item{
+            &:first-child{
+                margin-left: 2.6vw;
+            }
+            &:last-child{
+                margin-right: 2.6vw;
+            }
+            & + .blog-latest__item{
+                margin-left: 20px;
+            }
+        }
+        &--more-offset{
+            .blog-latest{
+                &__title{
+                    margin-left: 14.45%;
+                }
+                &__button{
+                    margin-left: 14.45%;
+                }
+                &__item{
+                    &:first-child{
+                        margin-left: 14.45%;
+                    }
+                }
+            }
+
+        }
+    }
+    @media (min-width: 1024px){
+        padding: 75px 2.6% 0;
+        &__title{
+            margin-left: 0;
+        }
+        &__list{
+            padding: 35px 0 70px;
+            overflow: visible;
+        }
+        &__button{
+            margin-left: 0;
+            position: absolute;
+            top: 6.25rem;
+            right: 2.6%;
+        }
+        &__item{
+
+            &:first-child{
+                margin-left: 0;
+            }
+            &:last-child{
+                margin-right: 0;
+            }
+            & + .blog-latest__item{
+                margin-left: span(0.5 of 10);
+            }
+        }
+        &--more-offset{
+            .blog-latest{
+                &__title{
+                    margin-left: 12.5%;
+                }
+                &__list{
+                    overflow: scroll;
+                    margin: 0 -2.7%;
+                    padding: 35px 2.7% 70px;
+                }
+                &__button{
+                    margin-left: 0;
+                    top: 61px;
+                }
+                &__item{
+                    &:first-child{
+                        margin-left: 12.5%;
+                    }
+                }
+            }
+
+        }
+    }
+    @media (min-width: 1200px){
+        padding: 6.25rem 8.3333333% 0;
+        & + .footer{
+            margin-top: toRem(60);
+        }
+        &__title{
+            margin-left: 0;
+        }
+        &__list{
+            padding: 2.916666rem 0 5.8333333rem;
+            overflow: visible;
+        }
+        &__button{
+            margin-left: 0;
+            position: absolute;
+            top: 6.25rem;
+            right: 8.3333333%;
+        }
+        &__item{
+            &:first-child{
+                margin-left: 0;
+            }
+            &:last-child{
+                margin-right: 0;
+            }
+            & + .blog-latest__item{
+                margin-left: span(0.5 of 10);
+            }
+        }
+        &--more-offset{
+            .blog-latest{
+                &__title{
+                    margin-left: 0;
+                }
+                &__list{
+                    overflow: visible;
+                    margin: 0;
+                    padding: 2.916666rem 0 5.8333333rem;
+                }
+                &__button{
+                    top: 6.25rem;
+                }
+                &__item{
+                    &:first-child{
+                        margin-left: 0;
+                    }
+                }
+            }
+
+        }
+    }
+}
+
+

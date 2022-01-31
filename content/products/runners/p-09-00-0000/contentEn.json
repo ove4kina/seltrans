@@ -1,0 +1,32 @@
+{
+  "content": {
+    "id": "",
+    "name": "Runner «P09-00-0000»",
+    "url": "p-09-00-0000",
+    "description": "<p>Serve for installation on current collectors LA SET-19 160 1200 of electric trains ES2G and transfer of current from the contact wire of the contact suspension to the electric equipment of the electric train.<p>The 60-mm-wide runners with carbon inserts provide greater resource up to the extreme wear of the inserts.</p><p>We make the runner according to the drawing «P09-00-0000 SB».  The double-row runner consists of a carcass and two coal inserts mounted on it. Inserts combine with bevels made of steel pipe. The size of the runner (LxW) 2000x280 mm. The weight of the runner is not more than 16 kg.</p>",
+    "trains": [
+      {
+        "name": "ES2G",
+        "avatar": "/img/articles/trains/2es7.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/img/products/runners/p-09-00-0000/avatar.png",
+        "alt": ""
+      }
+    ],
+    "meta": {
+      "title": "Runner P09-00-0000",
+      "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+    }
+  }
+}

@@ -1,0 +1,159 @@
+.grid{
+    display: none;
+    @media (min-width: 600px){
+        display: block;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        padding: 0 2.6%;
+        box-sizing: border-box;
+        z-index: 2;
+        pointer-events: none;
+        &--fixed{
+            position: fixed;
+        }
+        &--dark{
+            .grid__item{
+                &::before, &::after{
+                    background-color: #ecedee!important;
+                }
+            }
+        }
+        &__columns{
+            display: none;
+        }
+        &__item{
+            height: 100%;
+            display: inline-block;
+            vertical-align: top;
+            //border-left: solid 1px rgba(255, 255, 255, 0.1);
+            //border-right: solid 1px rgba(255, 255, 255, 0.1);
+            width: 25%;
+            position: relative;
+            box-sizing: border-box;
+            &::before, &::after{
+                content: '';
+                position: absolute;
+                width: 1px;
+                background-color: rgba(255, 255, 255, 0.1);
+                top: 0;
+                height: 100%;
+            }
+            &::before{
+                right: 0;
+            }
+            &::after{
+                left: 0;
+            }
+            & + .grid__item{
+                &::after{
+                    display: none;
+                }
+            }
+            &:nth-child(1){
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 2.6%;
+                &::after{
+                    display: none;
+                }
+            }
+            &:nth-child(6){
+                position: absolute;
+                right: 0;
+                top: 0;
+                width: 2.6%;
+                &::after{
+                    display: none;
+                }
+                &::before{
+                    display: none;
+                }
+            }
+            &:nth-child(7){
+                display: none;
+            }
+        }
+
+    }
+    @media (min-width: 1200px){
+        padding: 0;
+        &--with-columns{
+            overflow: hidden;
+            .grid{
+                &__column{
+                    display: block;
+                    position: absolute;
+                    bottom: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    transform: scaleY(0) scaleX(1);
+                    transform-origin: bottom;
+                    background-color: #fff;
+                    -webkit-backface-visibility: hidden;
+                    -webkit-perspective: 1000;
+                    &::before,&::after{
+                        content: '';
+                        position: absolute;
+                        width: 1px;
+                        background-color: #ecedee;
+                        top: 0;
+                        height: 100%;
+
+                    }
+                    &::before{
+                        right: -1px;
+                    }
+                    &::after{
+                        left: -1px;
+                    }
+                }
+            }
+        }
+
+        &__item{
+            -webkit-backface-visibility: hidden;
+            width: 16.6666666666667%;
+            -webkit-transform-style: preserve-3d;
+            & + .grid__item{
+                &::after{
+                    display: none;
+                }
+            }
+            &:nth-child(1){
+                position: relative;
+                left: auto;
+                top: auto;
+                width: 8.3333333333%;
+            }
+            &:nth-child(4){
+                .grid__column::after{
+                    right: -1px;
+                }
+            }
+            &:nth-child(6){
+                position: relative;
+                right: auto;
+                top: auto;
+                width: 16.6666666666667%;
+                &::after{
+                    display: none;
+                }
+            }
+            &:nth-child(7){
+                display: inline-block;
+                width: 8.3333333333%;
+                &::after{
+                    display: block;
+                }
+                &::before{
+                    display: none;
+                }
+            }
+        }
+    }
+}

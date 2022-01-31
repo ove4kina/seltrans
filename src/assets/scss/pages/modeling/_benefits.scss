@@ -1,0 +1,182 @@
+.benefits{
+    &--block{
+        padding: 30px 6.25% 0;
+    }
+    &__product{
+        display: block;
+    }
+    &__title{
+        margin-bottom: 25px;
+    }
+    &__text--about-block{
+        margin-bottom: 40px;
+    }
+    &__item--block{
+        & + .benefits__item{
+            margin-top: 30px;
+        }
+    }
+    &__img--block{
+        display: inline-block;
+        vertical-align: middle;
+        text-align: right;
+        width: 64px;
+        font-size: 0;
+        img{
+            width: 100%;
+        }
+    }
+
+    &__text--block{
+        display: inline-block;
+        vertical-align: middle;
+        margin-left: 15px;
+        font-size: 14px;
+        line-height: 18px;
+        color: $darkgray;
+        width: 150px;
+    }
+    &__content{
+        margin-bottom: 50px;
+    }
+    &__product{
+        margin-bottom: 10px;
+    }
+    &__append{
+        color: rgba(71, 77, 87, 0.5);
+        font-size: 12px;
+        line-height: 14px;
+        padding-left: 20px;
+        box-sizing: border-box;
+        width: span(3.45 of 4);
+    }
+    @media (min-width: 600px){
+        &--block{
+            padding: 50px 2.6% 0;
+        }
+
+        &__text--block{
+            font-size: 16px;
+            width: 160px;
+        }
+        &__content{
+            padding: 0 span(1 of 8);
+            max-width: 900px;
+            box-sizing: border-box;
+            margin: 0 auto 50px;
+
+        }
+        &__product{
+            margin-bottom: 0;
+            margin-right: 15px;
+            width: 150px;
+            display: inline-block;
+            vertical-align: top;
+        }
+        &__append{
+            padding-top: 25px;
+            padding-left: 0;
+            width: 140px;
+            display: inline-block;
+            vertical-align: top;
+        }
+        &__case{
+            padding: 0 span(1 of 8);
+            max-width: 900px;
+            box-sizing: border-box;
+            margin: 0 auto;
+        }
+    }
+    @media (min-width: 768px){
+        &__item--block{
+            display: inline-block;
+            vertical-align: top;
+            & + .benefits__item{
+                margin-top: 0;
+                margin-left: 25px;
+            }
+        }
+        &__img--block{
+            margin-bottom: 20px;
+            display: block;
+        }
+
+        &__text--block{
+            margin-left: 0;
+        }
+    }
+    @media (min-width: 1200px){
+        &--block{
+            padding: toRem(130) span(1 of 12) 0;
+            font-size: 0;
+        }
+        &__title{
+            margin-bottom: toRem(45);
+        }
+        &__text--block{
+            font-size: toRem(16);
+            line-height: toRem(18);
+            width: toRem(160);
+        }
+        &__text--about-block{
+            margin-bottom: toRem(40);
+            width: span(4 of 6);
+            max-width: 640px;
+        }
+        &__img--block{
+            width: toRem(64);
+        }
+        &__content{
+            padding: 0 ;
+            max-width: none;
+            margin: 0;
+            display: inline-block;
+            vertical-align: top;
+            width: span(6 of 10);
+
+        }
+        &__product{
+            margin-bottom: toRem(15);
+            margin-right: 0;
+            width: 100%;
+            display: block;
+            vertical-align: top;
+        }
+        &__append{
+            padding-top: 0;
+            padding-left: toRem(20);
+            width: span(3.4 of 4);
+            font-size: toRem(12);
+            line-height: toRem(14);
+            max-width: 544px;
+        }
+        &__case{
+            max-width: none;
+            margin: 0;
+            width: span(4 of 10);
+            display: inline-block;
+            vertical-align: top;
+            padding: toRem(25) 0 0 0;
+        }
+    }
+}
+
+.text--benefits{
+    color: $darkgray;
+    font-size: 14px;
+    p{
+        line-height: 17px;
+    }
+    @media (min-width: 600px){
+        font-size: 16px;
+        p{
+            line-height: 18px;
+        }
+    }
+    @media (min-width: 1200px){
+        font-size: toRem(16);
+        p{
+            line-height: toRem(18);
+        }
+    }
+}

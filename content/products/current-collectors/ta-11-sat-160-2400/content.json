@@ -1,0 +1,112 @@
+{
+  "content": {
+    "id": "",
+    "name": "Токоприемник «ТА 11-СЭТ 160 2400»",
+    "url": "ta-11-sat-160-2400",
+    "description": "<p>Тяговый электрический аппарат, предназначенный для создания электрического контакта электрооборудования подвижного состава (ЭПС) с контактной сетью.</p><p>Верхний узел, включающий четырехрядный полоз, позволяет снимать ток до 2400 А.</p><p>Снимаемый ток до 2400 А при движении и до 260 А на стоянке, от контактной сети напряжением 3000 В и скорости движения ЭПС до 160 км/ч.</p>",
+    "gallery": [
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/1.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/2.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/3.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/4.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/5.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/6.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/7.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/8.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/9.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/10.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/11.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/12.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/13.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/14.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/15.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/16.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/17.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/18.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/19.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/20.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/ta-11-sat-160-2400/21.png",
+        "alt": ""
+      }
+    ],
+    "trains": [
+      {
+        "name": "2ЭС10",
+        "avatar": "/img/articles/trains/2es10.jpg",
+        "tags": [
+          {
+            "name": "ЭПС"
+          },
+          {
+            "name": "Наши клиенты"
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Модель ТА 11-СЭТ 160 2400",
+      "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+    }
+  }
+}

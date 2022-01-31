@@ -1,0 +1,208 @@
+.contacts{
+    padding-top: 50px;
+    &__body{
+        width: 87.5%;
+        margin: 0 auto;
+        background-color: $darkbrown;
+        padding: 6.3%;
+        box-sizing: border-box;
+        position: relative;
+        z-index: 1;
+    }
+    &__title{
+        margin-bottom: 20px;
+    }
+    &__text{
+        margin-bottom: 30px;
+    }
+    &__map{
+        height: 134vw;
+        //background-color: #aeaeae;
+        margin-top: -36.56vw;
+        background: url('/img/map.jpg') no-repeat center;
+        background-size: cover;
+    }
+    @media (min-width: 600px){
+        padding-top: 80px;
+        position: relative;
+        z-index: 2;
+        &__body{
+            width: 80.2%;
+            padding: 5% 5% 8.4% 5%;
+            position: relative;
+            z-index: 3;
+        }
+        &__title{
+            margin-bottom: 55px;
+        }
+        &__text{
+            margin-bottom: 0;
+        }
+        &__map{
+            height: 52vw;
+            margin-top: -19.5vw;
+        }
+        &__button{
+            position: absolute;
+            bottom: 13.4%;
+            left: 50%;
+        }
+    }
+    @media (min-width: 768px){
+        &__body{
+            width: 71.2%;
+            padding: 4% 0 6% 4%;
+            max-width: 600px;
+
+        }
+        &__map{
+            position: relative;
+            z-index: 2;
+        }
+        &__button{
+            bottom: 13.4%;
+            left: 56.4%;
+        }
+    }
+    @media (min-width: 1024px){
+        padding-top: 0;
+    }
+    @media (min-width: 1200px){
+        position: relative;
+        padding-top: 0;
+        &__body{
+            background-color: $blue;
+            width: span(4 of 12);
+            position: absolute;
+            top: 50%;
+            transform: translate(0,-50%);
+            right: span(1 of 12);
+            padding: 4.166666rem span(0.5 of 12) 5.5rem;
+            max-width: 640px;
+        }
+        &__button{
+            position: relative;
+            bottom: auto;
+            left: auto;
+        }
+        &__title{
+            margin-bottom: 2.9rem;
+        }
+        &__text{
+            margin-bottom: 3.75rem;
+        }
+        &__map{
+            height: 50rem;
+            margin-top: 0;
+        }
+    }
+}
+
+
+
+.text{
+    &--contacts{
+        color: #fff;
+        p{
+            font-size: 16px;
+            line-height: 19px;
+            &.bold{
+                font-family: med;
+                line-height: normal;
+                & + *{
+                    margin-top: 5px;
+                }
+            }
+            & + .bold{
+                margin-top: 20px;
+            }
+        }
+        a{
+            font-size: 16px;
+            display: inline-block;
+            color: inherit;
+            cursor: pointer;
+            & + .bold{
+                margin-top: 20px;
+            }
+        }
+    }
+    &__col--contacts{
+        & + .text__col--contacts{
+            margin-top: 20px;
+        }
+    }
+    @media (min-width: 600px){
+        &--contacts{
+            font-size: 0;
+        }
+        &__col--contacts{
+            display: inline-block;
+            vertical-align: top;
+            width: 50%;
+            padding-right: 24px;
+            box-sizing: border-box;
+            & + .text__col--contacts{
+                margin-top: 0;
+            }
+        }
+    }
+    @media (min-width: 768px){
+
+        &__col--contacts{
+            &:nth-child(1){
+                width: 53%;
+            }
+            &:nth-child(2){
+                width: 47%;
+            }
+        }
+        &--contacts{
+            p{
+                & + .bold{
+                    margin-top: 27px;
+                }
+            }
+            a{
+                & + .bold{
+                    margin-top: 27px;
+                }
+            }
+        }
+    }
+    @media (min-width: 1200px){
+
+        &__col--contacts{
+            &:nth-child(1){
+                width: 100%;
+            }
+            &:nth-child(2){
+                width: 100%;
+            }
+            & + .text__col--contacts{
+                margin-top: 1.6666rem;
+            }
+        }
+        &--contacts{
+            p{
+                font-size: 1.3333rem;
+                line-height: 1.58rem;
+                &.bold{
+                    line-height: normal;
+                    & + *{
+                        margin-top: 0.416666rem;
+                    }
+                }
+                & + .bold{
+                    margin-top: 1.6666rem;
+                }
+            }
+            a{
+                font-size: 1.3333rem;
+                & + .bold{
+                    margin-top: 1.6666rem;
+                }
+            }
+        }
+    }
+}

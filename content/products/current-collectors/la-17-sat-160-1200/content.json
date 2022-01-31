@@ -1,0 +1,112 @@
+{
+  "content": {
+    "id": "",
+    "name": "Токоприемник «ЛA 17-СЭТ 160 1200»",
+    "url": "la-17-sat-160-1200",
+    "description": "<p>Тяговый электрический аппарат, предназначенный для создания электрического контакта электрооборудования подвижного состава (ЭПС) с контактной сетью.<\/p><p>Токоприемник «ЛA 17-СЭТ 160 1200» снабжен системой автоматического опускания, срабатывающей при поднятии токоприемника на высоту более 7000 мм над уровнем головки рельса. Обладает малым габаритом (333 мм) в сложенном положении.<\/p><p>Снимаемый ток до 1200 А при движении и до 260 А на стоянке, от контактной сети напряжением 27 кВ и скорости движения ЭПС до 140 км\/ч.<\/p>",
+    "gallery": [
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/1.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/2.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/3.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/4.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/5.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/6.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/7.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/8.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/9.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/10.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/11.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/12.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/13.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/14.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/15.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/16.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/17.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/18.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/19.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/20.png",
+        "alt": ""
+      },
+      {
+        "src": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/21.png",
+        "alt": ""
+      }
+    ],
+    "trains": [
+      {
+        "name": "2ЭВ120",
+        "avatar": "\/img\/articles\/trains\/2ev120.jpg",
+        "tags": [
+          {
+            "name": "ЭПС"
+          },
+          {
+            "name": "Наши клиенты"
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Модель ЛA 17-СЭТ 160 1200",
+      "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+    }
+  }
+}

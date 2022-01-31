@@ -1,0 +1,68 @@
+{
+  "content": {
+    "id": "",
+    "name": "Runner «P06-00-0001»",
+    "url": "p-06-00-0001",
+    "description": "<p>The runner is destined for installation on the «P-5» current collectors of the «VL 10» series electric locomotives and «TA 09-SET 160 3200» current collectors of the «2ES6» series electric locomotives.</p><p>This runner has the ability to adjust the horn-bevels.</p><p>The total length is 2040 mm, the diameter of the holes for attachment to the current collector carriage is 12 mm, the number of rows of metal-ceramic plates is 3, mounted according to the 3 + 2 + 3 scheme, the weight of the carcass with 8 metal-ceramic plates on an iron base is 12.2 kg.</p>",
+    "trains": [
+      {
+        "name": "VL10",
+        "avatar": "/img/articles/trains/vl10.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      },
+      {
+        "name": "VL11",
+        "avatar": "/img/articles/trains/vl11.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      },
+      {
+        "name": "2ES6",
+        "avatar": "/img/articles/trains/2es6.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      },
+      {
+        "name": "2L120",
+        "avatar": "/img/articles/trains/2ev120.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/img/products/runners/p-06-00-0001/avatar.png",
+        "alt": ""
+      }
+    ],
+    "meta": {
+      "title": "Runner П06-00-0001",
+      "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+    }
+  }
+}

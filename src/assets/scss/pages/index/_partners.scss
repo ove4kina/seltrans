@@ -1,0 +1,102 @@
+.partners{
+    padding: 70px 6.25% 0;
+    &__list{
+        font-size: 0;
+    }
+    &__title{
+        margin-bottom: 40px;
+    }
+    &__item{
+        display: inline-block;
+        vertical-align: middle;
+        width: 33.333%;
+        margin-bottom: 30px;
+        text-align: center;
+        img{
+            max-width: 100%;
+        }
+        &--rzd{
+            img{
+                width: 65%;
+            }
+        }
+        &--siemens{
+            img{
+                width: 67%;
+            }
+        }
+        &--mlrz,&--ctm,&--ul,&--demihovskie,&--camozzi{
+            img{
+                width: 64.5%;
+            }
+        }
+        &--msd,&--apatit{
+            img{
+                width: 53.7%;
+            }
+        }
+        &--bombardier{
+            img{
+                width: 97.8%;
+            }
+        }
+        &--evrz,&--lokotech{
+            img{
+                width: 89.2%;
+            }
+        }
+        &--1st,&--infotrans{
+            img{
+                width: 82.7%;
+            }
+        }
+    }
+    @media (min-width: 600px){
+        padding: 80px 2.6% 0;
+        z-index: 1;
+        position: relative;
+        &__title{
+            margin-bottom: 25px;
+            z-index: 2;
+            position: relative;
+        }
+        &__list{
+            padding: 45px 5% 20px;
+            box-sizing: border-box;
+            text-align: center;
+            box-shadow: 0 40px 40px 0 rgba(15, 99, 237, 0.1);
+            width: span(7.3 of 8);
+            margin: 0 auto;
+            background-color: #fff;
+            position: relative;
+            z-index: 2;
+
+        }
+        &__item{
+            width: 25%;
+            margin-bottom: 35px;
+            text-align: center;
+        }
+    }
+    @media (min-width: 1200px){
+        padding: toRem(95) span(1 of 12) 0;
+        &__title{
+            margin-bottom: toRem(35);
+        }
+        &__list{
+            padding: toRem(40) 5% toRem(5);
+            width: span(9 of 10);
+            transition: 0.8s ease-out;
+            box-shadow: 0 40px 40px 0 rgba(15, 99, 237, 0);
+            transform: translate3d(0,1.66666rem,0);
+            &.active{
+                box-shadow: 0 40px 40px 0 rgba(15, 99, 237, 0.1);
+                transform: translate3d(0,0,0);
+            }
+        }
+        &__item{
+            width: span(1 of 7);
+            margin-bottom: toRem(40);
+        }
+    }
+}

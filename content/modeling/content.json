@@ -1,0 +1,223 @@
+{
+  "content": {
+    "en": {
+      "meta": {
+        "title": "Modeling",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "Reasons for choosing our team",
+        "description": "S-Electric transport design bureau has 12 years of experience in any complexity equipment modeling and engineering analysis.",
+        "items": [
+          {
+            "name": "<p>Compliance with clear deadlines<\/p>"
+          },
+          {
+            "name": "<p>Transparent operation form<\/p>"
+          },
+          {
+            "name": "<p>Prototypes testing<\/p>"
+          }
+        ],
+        "case": {
+          "link": {
+            "name": "Rope absorber",
+            "button": "Watch case",
+            "src": ""
+          },
+          "description": "<p>We have been engaged in petrochemical equipment on development, successfully created and started to produce industrial manipulators, as well as patented and put into mass production rope shock absorber.<\/p>"
+        },
+        "visualization": {
+          "title": "Equipment visualization to order",
+          "description": "<p>We resolve any complexity issues in the projected objects modeling field, as well as engaged in technical documentation creation.<\/p><p class=\"blured\">Formed models and competent technical documentation help to avoid errors in mass production, also they assist in conducting engineering testing and create presentation materials.<\/p>",
+          "items": [
+            {
+              "title": "Complex technical equipment",
+              "description": "All mechanisms and details of technical documentation are elaborated to eliminate deficiencies, which implies modernization and testing.",
+              "avatar": "\/img\/modeling\/hard.png",
+              "alt": ""
+            },
+            {
+              "title": "Medium complexity models",
+              "description": "Simple mechanical products according to technical documentation with completion and testing opportunity to order",
+              "avatar": "\/img\/modeling\/middle.png",
+              "alt": ""
+            },
+            {
+              "title": "Simple models and details",
+              "description": "Primitive objects and equipment parts simulation",
+              "avatar": "\/img\/modeling\/simple.png",
+              "alt": ""
+            }
+          ]
+        },
+        "modeling": {
+          "title": "Operation stages",
+          "description": "It is easy to start working with us – just fill out the brief and attach it in the form below.",
+          "briefButton": "Brief filling",
+          "canvas":{
+            "notification": "Install modern browser",
+            "phases": {
+              "titles": ["Brief filling","Object modeling","Engineering analysis","Model visualization"],
+              "sections": [
+                {
+                  "text": "<h3 class='_modAnim _modAnim--1'>Brief filling<span>01</span></h3><p class='_modAnim _modAnim--2'>We need to get complete information about the project to successfully finish our work.</p><p class='_modAnim _modAnim--3'>3D visualization will require:</p><ul><li class='_modAnim _modAnim--4'>Photos</li><li class='_modAnim _modAnim--5'>Links to competitors examples</li><li class='_modAnim _modAnim--6'>Detailed task description</li><li class='_modAnim _modAnim--7'>Desired angles</li></ul><blockquote class='_modAnim _modAnim--8'>The more details you described for the task and the more materials you sent, the simpler the workflow will be and the more accurate the result. We will be glad to provide the customers with our solutions in case of required data absence.</blockquote>",
+                  "image": "/img/modeling/phases/mobile/1.png"
+                },
+                {
+                  "text": "<h3 class='_modAnim _modAnim--1'>Object modeling<span>02</span></h3><p class='_modAnim _modAnim--2'>An object framework is created for technical documentation while considering all the features. At this stage, technical aspects and instructions for upgrading the model consider in accordance with the terms of reference, which will allow avoiding modifications in subsequent work tests.</p>",
+                  "image": "/img/modeling/phases/mobile/2.png"
+                },
+                {
+                  "text": "<h3 class='_modAnim _modAnim--1'>Engineering analysis<span>03</span></h3><p class='_modAnim _modAnim--2'>It is important to evaluate the mechanical impact and wear of the device before mass production because it determines the use of certain materials in gathering the working model of the product, as well as to check the durability of the product to external factors.</p>",
+                  "image": "/img/modeling/phases/mobile/3.png"
+                },
+                {
+                  "text": "<h3 class='_modAnim _modAnim--1'>Model visualization<span>04</span></h3><p class='_modAnim _modAnim--2'>High-quality models, which can later be used even for promotional purposes, are prepared for the product presentation. Technical requirements for the final model should be discussed in advance and included in the specification.</p>",
+                  "image": "/img/modeling/phases/mobile/4.png"
+                }
+              ]
+            }
+
+          }
+        },
+        "serviceMain": {
+          "title": "3D objects modeling and prototyping",
+          "description": "<p>Product development (3D modeling) and design documentation (drawings) are Computer-Aided Design (CAD)-based:<\/p><ul><li><span>SolidWorks-2014<\/span><\/li><li><span>AutoCAD-LT2014<\/span><\/li><li><span>Compass-V16<\/span><\/li><\/ul>",
+          "media": {
+            "backgroundImage": "\/img\/services\/modeling--",
+            "backgroundVideo": "\/video\/index\/services\/1"
+          },
+          "button": {
+            "name": "Leave a request"
+          }
+        },
+        "orderBlock": {
+          "title": "Cost calculation",
+          "description": "<p>To accurately calculate the cost of developing a model, you need to describe in detail the task, attaching all the available materials.<\/p><p>Your request processing will take no more than a day.<\/p><p class=\"blured\">Please attach some work models, sketches or drawings, if available at the moment to the request or add a link to download them into the description if exceeding the maximum file size.<\/p>"
+        },
+        "serviceBlock": {
+          "media": {
+            "backgroundImage": "\/img\/services\/engineering--",
+            "backgroundVideo": "\/video\/index\/services\/2"
+          },
+          "title": "Production and design non-standard equipment to order",
+          "description": "<p>Our plant’s design department can embody almost any of your ideas and design even the most complex equipment, including technical documentation and outsourcing audits.<\/p>",
+          "link": {
+            "name": "Go to section",
+            "src": "\/en\/engineering"
+          }
+        }
+      }
+    },
+    "ru": {
+      "meta": {
+        "title": "Моделирование и прототипирование 3D-объектов",
+        "meta": "<meta name=\"description\" content=\"Разработка изделий (3D-моделирование) и оформление конструкторской документации (чертежей).\"\/>"
+      },
+      "text": {
+        "title": "Почему выбирают нашу команду",
+        "description": "Конструкторское бюро «С–Электротранспорт» имеет 12-летний опыт в моделировании и инженерном анализе оборудования любой сложности.",
+        "items": [
+          {
+            "name": "<p>Соблюдение четких сроков<\/p>"
+          },
+          {
+            "name": "<p>Прозрачная форма работы<\/p>"
+          },
+          {
+            "name": "<p>Тестирование опытных образцов<\/p>"
+          }
+        ],
+        "case": {
+          "link": {
+            "name": "Канатный амортизатор",
+            "button": "Смотреть кейс",
+            "src": ""
+          },
+          "description": "<p>Мы работали над проектированием нефтехимического оборудования, создали и начали производить промышленные манипуляторы, а также запатентовали и пустили в массовое производство канатный амортизатор.<\/p>"
+        },
+        "visualization": {
+          "title": "Визуализация оборудования на заказ",
+          "description": "<p>Решаем задачи любой сложности в области моделирования проектируемых объектов, а также подготавливаем техническую документацию.<\/p><p class=\"blured\">Сформированные модели и грамотная техническая документация помогают избежать ошибок при массовом производстве, а также проводить инженерное тестирование и создавать презентационные материалы.<\/p>",
+          "items": [
+            {
+              "title": "Сложное техническое оборудование",
+              "description": "Проработка всех механизмов и деталей по технической документации для модернизации, тестирования и устранения недостатков",
+              "avatar": "\/img\/modeling\/hard.png",
+              "alt": ""
+            },
+            {
+              "title": "Модели средней сложности",
+              "description": "Несложные механические изделия по технической документации с возможностью доработки и тестирования на заказ",
+              "avatar": "\/img\/modeling\/middle.png",
+              "alt": ""
+            },
+            {
+              "title": "Простые модели и детали",
+              "description": "Моделирование примитивных объектов и деталей оборудования",
+              "avatar": "\/img\/modeling\/simple.png",
+              "alt": ""
+            }
+          ]
+        },
+        "modeling": {
+          "title": "Этапы работы",
+          "description": "Начать работать с нами очень просто — заполните бриф и прикрепите его в форме ниже.",
+          "briefButton": "Скачать бриф",
+          "canvas":{
+            "notification": "Установите современный браузер",
+            "phases": {
+              "titles": ["Заполнение брифа","Моделирование объекта","Инженерный анализ","Визуализация модели"],
+              "sections": [
+                {
+                  "text": "<h3 class='_modAnim _modAnim--1'>Заполнение брифа<span>01</span></h3><p class='_modAnim _modAnim--2'>Для успешного выполнения работы нам необходимо получить полную информацию о проекте.</p><p class='_modAnim _modAnim--3'>Для 3D-визуализации будут полезны:</p><ul><li class='_modAnim _modAnim--4'>Фотографии</li><li class='_modAnim _modAnim--5'>Ссылки на примеры работ конкурентов</li><li class='_modAnim _modAnim--6'>Подробное описание задачи</li><li class='_modAnim _modAnim--7'>Желаемые ракурсы.</li></ul><blockquote class='_modAnim _modAnim--8'>Чем детальнее вы опишите задачу и чем больше материалов пришлете, тем проще будет идти процесс работы и точнее результат. В случае отсутствия необходимой информации мы всегда готовы предложить клиенту наши решения.</blockquote>",
+                  "image": "/img/modeling/phases/mobile/1.png"
+                },
+                {
+                  "text": "<h3 class='_modAnim _modAnim--1'>Моделирование объекта<span>02</span></h3><p class='_modAnim _modAnim--2'>Создается каркас объекта по технической документации с учетом всех нюансов. На этом этапе учитываются технические аспекты и пожелания по модернизации модели в соответствии с техническим заданием, что позволит избежать доработок на последующих рабочих тестах.</p>",
+                  "image": "/img/modeling/phases/mobile/2.png"
+                },
+                {
+                  "text": "<h3 class='_modAnim _modAnim--1'>Инженерный анализ<span>03</span></h3><p class='_modAnim _modAnim--2'>Оценить механическое воздействие и износ устройства важно перед массовым производством, ведь это определяет использование тех или иных материалов для комплектования рабочей модели продукта, а также проверить износостойкость изделия к внешним факторам.</p>",
+                  "image": "/img/modeling/phases/mobile/3.png"
+                },
+                {
+                  "text": "<h3 class='_modAnim _modAnim--1'>Визуализация модели<span>04</span></h3><p class='_modAnim _modAnim--2'>Для презентации продукта подготавливаются модели высокого качества, которые в последствии можно использовать даже в рекламных целях. Технические требования для итоговой модели следует обсудить заранее и внести в техническое задание.</p>",
+                  "image": "/img/modeling/phases/mobile/4.png"
+                }
+              ]
+            }
+          }
+        },
+        "serviceMain": {
+          "title": "Моделирование и прототипирование 3D-объектов",
+          "description": "<p>Разработка изделий (3D-моделирование) и оформление конструкторской документации (чертежей) осуществляется на лицензионных САПР:<\/p><ul><li><span>SolidWorks-2014<\/span><\/li><li><span>AutoCAD-LT2014<\/span><\/li><li><span>Компас-V16<\/span><\/li><\/ul>",
+          "media": {
+            "backgroundImage": "\/img\/services\/modeling--",
+            "backgroundVideo": "\/video\/index\/services\/1"
+          },
+          "button": {
+            "name": "Оставить заявку"
+          }
+        },
+        "orderBlock": {
+          "title": "Расчет стоимости",
+          "description": "<p>Чтобы точно расчитать стоимость  разработки модели, вам необходимо подробно описать задачу, приложив все имеющиеся материалы.<\/p><p>Обработка вашей заявки займет не более дня.<\/p><p class=\"blured\">Если на текущий момент у вас уже имеются наработки (модели, наброски и чертежи), прикрепите их к заявке или добавьте ссылку на их скачивание в описание, если превышен максимальный размер файла.<\/p>"
+        },
+        "serviceBlock": {
+          "media": {
+            "backgroundImage": "\/img\/services\/engineering--",
+            "backgroundVideo": "\/video\/index\/services\/2"
+          },
+          "title": "Проектирование и производство нестандартного оборудования на заказ",
+          "description": "<p>Конструкторское бюро нашего завода может воплотить практически любую вашу задумку и спроектировать даже самое сложное оборудование, включая техническую документаци и аутсорс-аудит<\/p>",
+          "link": {
+            "name": "Перейти в раздел",
+            "src": "\/ru\/engineering"
+          }
+        }
+      }
+    }
+  }
+}

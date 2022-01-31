@@ -1,0 +1,92 @@
+{
+  "content": {
+    "id": "",
+    "name": "Runner «P05-00-0001»",
+    "url": "p-05-00-0001",
+    "description": "<p>The runner is intended for installation on Czech current collectors of type 2SLS AC electric locomotives. Runner consists of a carcass and two rows mounted on it, 5 pcs each. Also, there are coal inserts of types A and B of profile No. 2 according to «TU-1916-020-27208846-99».</p><p>It has an increased distance between rows of inserts, ensuring uniform wear of inserts.</p><p>The weight of the runner with 10 coal inserts is no more than 10 kg. The carcass is completed with a copper tape substrate mating with coal inserts, horns made of steel pipe, steel clamps and fasteners.</p>",
+    "trains": [
+      {
+        "name": "2ES7",
+        "avatar": "/img/articles/trains/2es7.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      },
+      {
+        "name": "EP2D",
+        "avatar": "/img/articles/trains/ep2d.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      },
+      {
+        "name": "EP3D",
+        "avatar": "/img/articles/trains/ep3d.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      },
+      {
+        "name": "TschS4",
+        "avatar": "/img/articles/trains/chs4.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      },
+      {
+        "name": "TschS8",
+        "avatar": "/img/articles/trains/chs8.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      },
+      {
+        "name": "EP1",
+        "avatar": "/img/articles/trains/ep1.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/img/products/runners/p-05-00-0001/avatar.png",
+        "alt": ""
+      }
+    ],
+    "meta": {
+      "title": "Runner P05-00-0001",
+      "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+    }
+  }
+}

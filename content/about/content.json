@@ -1,0 +1,52 @@
+{
+  "content": {
+    "en": {
+      "meta": {
+        "title": "About",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "About company",
+        "buttonHistory": {
+          "name": "Our history",
+          "url": "/en/history"
+        },
+        "description1": "The company was founded in 1992. We develop, produce and supply products for electric vehicles and traction energy devices for trunk roads and urban electric transport.",
+        "description2": "At the beginning of the enterprise, the main consumers of our products were railways, repair factories of JSC «Russian Railways» and organizations of urban electric transport.  The main products of the enterprise were the current collectors' runners and components for electric locomotives and electric trains of the rolling stock. Subsequently, CJSC «S Electrotransport» began development and production of current collectors for freight and passenger electric locomotives of direct and alternating currents, dual power locomotive and current electric trains.",
+        "certificates": {
+          "title": "Certificates",
+          "description1": "Our company regularly passes quality certification.  In August 2014 the company received a Certificate: International Railway Industry Standard (IRIS). Then we confirmed and extended it in 2017.",
+          "description2": "In 2015 we got certification from IQNet «Selena Electrotransport JSC has implemented and maintains a Quality Management System»."
+        },
+        "bottom": {
+          "left": "<h3>Today</h3><p>Currently, our company supplies current collectors and components to the largest Russian electric locomotive factories and locomotive repair plants.</p><p>A serious advantage of our company is the consistently low price of the supplied products, due to many years of experience in improving technologies and optimizing production processes.</p>",
+          "right": "<h4>The production complex has the following equipment:</h4><ul><li><p>Metalworking equipment</p><span>Turning, milling, drilling, bending machines, and guillotine</span></li><li><p>Joinery Machines</p><span></span></li><li><p>Universal welding equipment</p><span></span></li><li><p>Press equipment</p><span></span></li></ul>"
+        }
+      }
+    },
+    "ru": {
+      "meta": {
+        "title": "О компании",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "О компании",
+        "buttonHistory": {
+          "name": "Наша история",
+          "url": "/ru/history"
+        },
+        "description1": "Предприятие основано в 1992 году. Мы разрабатываем, изготавливаем и поставляем изделия для электроподвижного состава и устройств тягового электроснабжения магистральных железных дорог и городского электротранспорта.",
+        "description2": "В начале деятельности предприятия основными потребителями нашей продукции были железные дороги, ремонтные заводы ОАО «РЖД» и службы городского электротранспорта. Основной продукцией предприятия являлись полоза токоприемников и комплектующие для электровозов и электропоездов подвижного состава РЖД. В дальнейшем ЗАО «С-Электротранспорт» приступило к разработке и выпуску асимметричных токоприемников для грузовых и пассажирских электровозов постоянного и переменного токов, электровозов двойного питания и электропоездов переменного и постоянного тока.",
+        "certificates": {
+          "title": "Сертификаты",
+          "description1": "Наша компания проходит ежегодную сертификацию менеджмента качества предприятия International Railway Industry Standard Revision (IRIS ISO/TS 22163:2017). ",
+          "description2": "В 2015 году мы получили сертификат от IQNet «Selena Electrotransport JSC has implemented and maintains a Quality Management System»."
+        },
+        "bottom": {
+          "left": "<h3>На сегодняшний день</h3><p>В настоящее время наша компания осуществляет поставку токоприемников и комплектующих крупнейшим российским электровозостроительным и локомотиворемонтным заводам: «Уральские локомотивы» (г. Верхняя Пышма, Свердловская область), Первая Локомотивная Компания, Демиховский Машиностроительный завод, а также сервисным компаниям: СТМ-Сервис, ТМХ-Сервис, Красноярский и Московский ЭВРЗ.</p><p>Серьезным преимуществом нашей компании является стабильно невысокая цена поставляемой продукции, обусловленная многолетним опытом в совершенствовании технологий и оптимизации процессов производства.</p>",
+          "right": "<h4>Производственный комплекс располагает следующим оборудованием:</h4><ul><li><p>Металлообрабатывающее</p><span>Токарные, фрезерные, сверлильные, гибочные станки и гильотина</span></li><li><p>Столярное</p><span></span></li><li><p>Универсальное сварочное</p><span></span></li><li><p>Прессовое</p><span></span></li></ul>"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://seltrans.ru/</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/engineering</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/modeling</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/current-collectors</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/runners</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/contact-strings</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/spares</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/blog</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/about</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/contacts</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/history</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/blog/leo-express</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/blog/four-horsepower-electric-train-stadler</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/blog/hong-kong-express</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/engineering</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/modeling</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/public/media/breef.doc</loc>
+  <lastmod>2018-11-12T09:51:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/current-collectors/la-19-sat-160-1200</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/runners/p-01-00-0001</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/current-collectors</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/current-collectors/ta-09-sat-160-3200</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/current-collectors/ta-11-sat-160-2400</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/current-collectors/ta-16-sat-160-2400</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/current-collectors/la-14-sat-160-800</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/current-collectors/la-17-sat-160-1200</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/current-collectors/la-19-21-sat-155-800</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/current-collectors/la-19-22-sat-155-800</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/current-collectors/la-20-sat-160-1200</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/current-collectors/tra-01-set-90</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/runners</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/runners/p-02-00-0001</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/runners/p-04-00-0001</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/runners/p-05-00-0001</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/runners/p-06-00-0001</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/runners/p-07-00-0001</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/products/runners/p-09-00-0000</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/contact-strings</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/spares</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/blog</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/blog/alstom-introduced-the-new-design-of-aptis</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/ru/blog/exhibition-innotrans</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/about</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/contacts</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/history</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/current-collectors/la-19-sat-160-1200</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/runners/p-01-00-0001</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/current-collectors/ta-09-sat-160-3200</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/current-collectors/ta-11-sat-160-2400</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/current-collectors/ta-16-sat-160-2400</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/current-collectors/la-14-sat-160-800</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/current-collectors/la-17-sat-160-1200</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/current-collectors/la-19-21-sat-155-800</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/current-collectors/la-19-22-sat-155-800</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/current-collectors/la-20-sat-160-1200</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/current-collectors/tra-01-set-90</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/runners/p-02-00-0001</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/runners/p-04-00-0001</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/runners/p-05-00-0001</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/runners/p-06-00-0001</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/runners/p-07-00-0001</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://seltrans.ru/en/products/runners/p-09-00-0000</loc>
+  <lastmod>2019-04-17T17:53:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+</urlset>

@@ -1,0 +1,21 @@
+.text-page{
+    padding: 95px 6.25% 70px;
+    &__content{
+        max-width: 450px;
+    }
+    @media (min-width: 600px) {
+        padding: 150px 2.6% 70px;
+        &__content{
+            max-width: 700px;
+            width: span(6 of 8);
+            margin: 0 auto;
+        }
+    }
+    @media (min-width: 1200px) {
+        padding: toRem(140) span(1 of 12) toRem(80);
+        &__content{
+            max-width: 1280px;
+            width: span(8 of 10);
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+  "content": {
+    "id": "",
+    "name": "Current collector «LA 20-SET 160 1200»",
+    "url": "la-20-sat-160-1200",
+    "gallery": [
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/1.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/2.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/3.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/4.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/5.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/6.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/7.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/8.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/9.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/10.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/11.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/12.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/13.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/14.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/15.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/16.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/17.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/18.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/19.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/20.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-20-sat-160-1200/21.png",
+        "alt": ""
+      }
+    ],
+    "trains": [
+      {
+        "name": "EP2Tv",
+        "avatar": "/img/articles/trains/ЭП2Тв.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      }
+    ],
+    "description": "<p>A traction electrical device is designed to create electrical contact (ERS) with a contact network.</p><p>It is equipped with automatic lowering systems, which are triggered when the current collector is raised to a height of more than 7000 mm above the railhead level. Besides, they are triggered when the runner inserts begin to collapse.</p><p>The removable current has up to 1200 A when moving and up to 300 A in the parking place, from a contact network with a voltage of 3000 V DC and 27 kV AC and speed of ERS movement up to 160 km/h.</p><p>The current collector shows the high reliability being compared to the LA 19-SET 160 1200.</p>",
+    "meta": {
+      "title": "Model «LA 20-SET 160 1200»",
+      "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+    }
+  }
+}

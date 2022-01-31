@@ -1,0 +1,117 @@
+.not-found{
+    height: 100vh;
+    min-height: 400px;
+    &::before{
+        position: fixed;
+        content:'';
+        width: 100%;
+        height: 100%;
+        background-color: $blue;
+        z-index: -1;
+    }
+    &__body{
+        position: absolute;
+        top: 50%;
+        left: 0;
+        transform: translate(0,-50%);
+        padding: 0 6.25%;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    &__title{
+        font-size: 140px;
+        font-family: med;
+        color: #fff;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    &__text{
+        margin-bottom: 30px;
+        width: span(3 of 4);
+        margin-left: span(1 of 4);
+        max-width: 280px;
+    }
+    &__button{
+        margin-left: span(1 of 4);
+    }
+    @media (min-width: 600px) {
+        min-height: 600px;
+        &__body{
+            top: 46.6%;
+            padding: 0 2.6%;
+        }
+        &__title{
+            font-size: 250px;
+            margin-bottom: 40px;
+        }
+        &__text{
+            margin-bottom: 40px;
+            width: span(3.75 of 8);
+            margin-left: span(4 of 8);
+        }
+        &__button{
+            margin-left: span(4 of 8);
+        }
+    }
+    @media (min-width: 1200px) {
+        min-height: toRem(667);
+        &__body{
+            top: 53%;
+            padding: 0;
+        }
+        &__title{
+            font-size: toRem(333);
+            line-height: toRem(300);
+            margin-bottom: 2.4rem;
+        }
+        &__text{
+            margin-bottom: toRem(35);
+            width: span(3.8 of 12);
+            margin-left: span(5 of 12);
+            max-width: 608px;
+        }
+        &__button{
+            margin-left: span(5 of 12);
+        }
+    }
+}
+
+.text--404{
+    color: #fff;
+    h1{
+        font-size: 16px;
+        font-family: med;
+        & + p{
+            margin-top: 10px;
+        }
+    }
+    p{
+        font-size: 14px;
+        line-height: 17px;
+    }
+    @media (min-width: 600px) {
+        h1{
+            font-size: 21px;
+            & + p{
+                margin-top: 20px;
+            }
+        }
+        p{
+            font-size: 16px;
+            line-height: 18px;
+        }
+    }
+    @media (min-width: 1200px) {
+        h1{
+            font-size: toRem(24);
+            & + p{
+                margin-top: toRem(20);
+            }
+        }
+        p{
+            font-size: toRem(16);
+            line-height: toRem(18);
+        }
+    }
+
+}

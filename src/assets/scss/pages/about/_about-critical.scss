@@ -1,0 +1,484 @@
+.about-page{
+    padding: 90px 0 0;
+    &__title{
+        margin-bottom: 25px;
+    }
+    &__top{
+        padding: 0 6.25% 50px;
+    }
+    &__text--top{
+        margin-bottom: 20px;
+    }
+    &__images{
+        font-size: 0;
+    }
+    &__photo{
+        position: relative;
+        font-size: 0;
+        overflow: hidden;
+        img{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            min-width: 100%;
+            min-height: 101%;
+            height: 100%;
+        }
+        &:nth-child(1){
+            height: 65.625vw;
+        }
+        &:nth-child(2){
+            display: none;
+        }
+    }
+    &__button{
+        &--desktop{
+            display: none;
+        }
+    }
+    &__text--certificates{
+        p{
+            max-width: 400px;
+        }
+    }
+    &__certificates-content{
+        padding: 30px 6.25% 40px;
+        background-color: #f5f5f5;
+    }
+    &__certificates{
+        white-space: nowrap;
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        padding: 30px 7% 60px;
+        margin: 0 -7%;
+    }
+    &__certificate{
+        display: inline-block;
+        vertical-align: top;
+        width: 170px;
+        font-size: 0;
+        box-shadow: 0 30px 30px 0 rgba(0, 0, 0, 0.1);
+        img{
+            width: 100%;
+        }
+        & + .about-page__certificate{
+            margin-left: 20px;
+        }
+    }
+    &__text--bottom{
+        padding: 30px 6.25%;
+    }
+    &__equipment{
+        background: url(/img/about-page/today.jpg) no-repeat center center;
+        background-size: cover;
+        padding: 20px 6.25% 25px;
+    }
+    @media (min-width: 600px) {
+        padding: 150px 0 0;
+        border-bottom: 1px solid #f1f1f1;
+        &__title{
+            margin-left: span(1 of 8);
+        }
+        &__top{
+            padding: 0 2.6% 40px;
+        }
+        &__text--top{
+            box-sizing: border-box;
+            padding:0 span(1 of 8);
+            margin-bottom: 30px;
+            max-width: none;
+            p{
+                max-width: 550px;
+            }
+        }
+        &__images{
+            position: relative;
+            width: 116%;
+        }
+        &__photo{
+            &:nth-child(1){
+                width: span(4 of 7);
+                height: 35.6777vw;
+            }
+            &:nth-child(2){
+                display: block;
+                position: absolute;
+                width: span(3.5 of 7);
+                right: 0;
+                bottom: 50%;
+                transform: translate(0,50%);
+                box-shadow: 0 20px 40px 0 rgba(27, 27, 27, 0.4);
+                height: 28.255vw;
+            }
+        }
+        &__button{
+            &--mobile{
+                margin-left: span(1 of 8);
+            }
+        }
+
+        &__certificates-content{
+            padding: 50px 2.6% 55px;
+        }
+        &__certificates{
+            padding: 40px 3.1% 60px 17.4%;
+            margin: 0 -3.1% 0 -17.4%;
+        }
+        &__text--certificates{
+            padding-left: span(1 of 8);
+            p{
+                width: span(5.5 of 7);
+                max-width: 550px;
+            }
+        }
+        &__certificate{
+            width: 240px;
+            & + .about-page__certificate{
+                margin-left: 30px;
+            }
+        }
+
+        &__bottom{
+            padding: 50px 2.6%;
+        }
+
+        &__text--bottom{
+            padding: 0 span(1 of 8);
+            margin-bottom: 30px;
+        }
+        &__equipment{
+            padding: 30px 8.5% 30px 4.15%;
+            width: span(6 of 8);
+            margin: 0 auto;
+            box-sizing: border-box;
+            h4{
+                max-width: 500px;
+            }
+        }
+
+    }
+    @media (min-width: 768px) {
+        &__equipment{
+            padding: 30px 3.5% 30px 4.15%;
+        }
+    }
+    @media (min-width: 1200px) {
+        padding: toRem(140) 0 0;
+        &__title{
+            margin-left: 0;
+        }
+        &__top{
+            padding: 0 span(1 of 12) toRem(50);
+        }
+        &__images{
+            width: 100%;
+        }
+        &__text--top{
+            padding: 0;
+            margin-bottom: 0;
+            max-width: none;
+            p{
+                width: span(5 of 10);
+                max-width: 800px;
+            }
+        }
+        &__photo{
+            &:nth-child(1){
+                width: span(6 of 10);
+                height: 37.5vw;
+            }
+            &:nth-child(2){
+                width: span(4.5 of 10);
+                height: 25.833333vw;
+                bottom: 25%;
+                transform: none;
+
+            }
+        }
+        &__button{
+            &--mobile{
+                display: none;
+            }
+            &--desktop{
+                display: block;
+                position: absolute;
+                right: span(1.1 of 10);
+                bottom: toRem(20);
+            }
+        }
+
+        &__certificates-content{
+            padding: toRem(50) span(1 of 12) toRem(60);
+        }
+        &__certificates{
+            padding: 0;
+            margin: 0;
+            overflow: visible;
+            white-space: normal;
+        }
+        &__text--certificates{
+            padding-left: 0;
+            p{
+                width: span(5 of 10);
+                max-width: 800px;
+            }
+        }
+        &__certificate{
+            width: span(2 of 10);
+            & + .about-page__certificate{
+                margin-left: span(0.2 of 10);
+            }
+        }
+
+        &__bottom{
+            padding: toRem(70) span(1 of 12) toRem(90);
+        }
+
+        &__text--bottom{
+            padding: 0;
+            margin-bottom: 0;
+            display: inline-block;
+            vertical-align: middle;
+            width: span(3.5 of 10);
+            p{
+                max-width: 560px;
+            }
+        }
+        &__equipment{
+            padding: 3.3333vw 3.3333vw 2.5vw 0;
+            width: span(5.5 of 12);
+            display: inline-block;
+            vertical-align: middle;
+            border-radius: 2px;
+            position: absolute;
+            right: span(1 of 12);
+            max-width: 880px;
+            h4{
+                max-width: none;
+            }
+        }
+    }
+    @media (min-width: 1920px) {
+        &__button{
+            &--desktop{
+                right: 19%;
+            }
+        }
+
+    }
+}
+
+
+.text--about-page{
+    h3{
+        font-family: med;
+        font-size: 18px;
+        color: $darkgray;
+        & + *{
+            margin-top: 20px;
+        }
+    }
+    p{
+        font-size: 14px;
+        line-height: 17px;
+        color: $darkgray;
+        & + p {
+            margin-top: 20px;
+        }
+        & + div{
+            margin-top: 25px;
+        }
+    }
+    & > div + p{
+        margin-top: 20px;
+    }
+
+    @media (min-width: 600px) {
+        h3{
+            font-size: 21px;
+        }
+        p{
+            font-size: 16px;
+            line-height: 18px;
+
+        }
+        & > div + p{
+            margin-top: 40px;
+        }
+    }
+    @media (min-width: 1200px){
+        h3{
+            font-size: toRem(21);
+            & + *{
+                margin-top: toRem(20);
+            }
+        }
+        p{
+            font-size: toRem(16);
+            line-height: toRem(18);
+            & + div{
+                margin-top: toRem(30);
+            }
+        }
+        & > div + p{
+            margin-top: toRem(40);
+        }
+    }
+}
+
+.text--certificates{
+    h3{
+        color: $darkgray;
+        font-size: 18px;
+        line-height: 18px;
+        font-family: med;
+        & + p{
+            margin-top: 20px;
+        }
+    }
+    p{
+        font-size: 14px;
+        line-height: 17px;
+        color: $darkgray;
+
+        &.bold{
+            color: $blue;
+            font-family: med;
+            line-height: 16px;
+        }
+    }
+    & > div{
+        & + *{
+            margin-top: -30px;
+        }
+    }
+    @media (min-width: 600px) {
+        h3{
+            font-size: 21px;
+            line-height: 21px;
+        }
+        p{
+            font-size: 16px;
+            line-height: 18px;
+            &.bold{
+                line-height: 21px;
+            }
+        }
+        & > div{
+            & + *{
+                margin-top: -20px;
+            }
+        }
+    }
+    @media (min-width: 1200px) {
+        h3{
+            font-size: toRem(21);
+            line-height: toRem(21);
+            & + p{
+                margin-top: toRem(20);
+            }
+        }
+        p{
+            font-size: toRem(16);
+            line-height: toRem(18);
+            &.bold{
+                font-size: toRem(18);
+                line-height: toRem(21);
+            }
+            & + div{
+                margin-top: toRem(30);
+            }
+        }
+        & > div{
+            & + *{
+                margin-top: toRem(50);
+            }
+        }
+    }
+}
+
+.text--equipment{
+    color: #fff;
+    h4{
+        font-family: med;
+        font-size: 16px;
+        line-height: 20px;
+        & + *{
+            margin-top: 30px;
+        }
+    }
+    li{
+        p{
+            font-family: med;
+            font-size: 14px;
+            line-height: 14px;
+            & + span{
+                margin-top: 5px;
+            }
+        }
+        span{
+            font-size: 14px;
+            line-height: 16px;
+            display: block;
+        }
+        & + li{
+            margin-top: 20px;
+        }
+    }
+    @media (min-width: 600px) {
+        h4{
+            font-size: 18px;
+            line-height: 21px;
+
+        }
+        ul{
+            font-size: 0;
+        }
+        li{
+            p{
+                font-size: 16px;
+                line-height: 18px;
+            }
+        }
+    }
+    @media (min-width: 768px) {
+        li{
+            display: inline-block;
+            vertical-align: top;
+            width: 50%;
+            padding-right: 35px;
+            box-sizing: border-box;
+            margin-bottom: 20px;
+            & + li{
+                margin-top: 0;
+            }
+        }
+    }
+    @media (min-width: 1200px) {
+        h4{
+            font-size: toRem(18);
+            line-height: toRem(21);
+            padding-left: toRem(50);
+            & + *{
+                margin-top: toRem(50);
+            }
+        }
+        li{
+            padding-right: 0;
+            padding-left: toRem(50);
+            margin-bottom: toRem(30);
+            p{
+                font-size: toRem(16);
+                line-height: toRem(18);
+                & + span{
+                    margin-top: toRem(5);
+                }
+            }
+            span{
+                font-size: toRem(14);
+                line-height: toRem(16);
+            }
+        }
+    }
+}

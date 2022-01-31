@@ -1,0 +1,92 @@
+{
+  "content": {
+    "id": "",
+    "name": "Токоприемник «ТрА 02-СЭТ 90»",
+    "url": "tra-02-sat-90",
+    "description": "<p>Токоприемник(токоприемник-полупантограф) предназначен для создания электрического контакта электрооборудования трамвая с контактной сетью.</p><p>Снимаемый допустимый длительный ток до 800 А при движении трамвая до 90 км/ч и до 160 А на стоянке от контактной сети номинальным напряжением 550 В.</p><p>Снабжен системами дистационного управления поднятия/опускания и возможностью ручного аварийного поднятия/опускания.</p><p>Устанавливается на трамваях производства: ООО «ПК Транспортные Системы»</p><p>Токоприемник может поставляться со следующими типами контактных вставок:</p><ul><li>алюминиевая вставка (605.29.17.066)</li><li>алюминивый плоский полоз (монополоз)</li><li>угольные вставки (графитовые)</li></ul>",
+    "gallery": [
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/1.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/2.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/3.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/4.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/5.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/6.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/7.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/8.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/9.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/10.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/11.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/12.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/13.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/14.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/15.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/16.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/17.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/18.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/tra-02-sat-90/19.png",
+        "alt": ""
+      }
+    ],
+    "trains": [
+    ],
+    "meta": {
+      "title": "Токоприемник «ТрА 02-СЭТ 90»",
+      "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+    }
+  }
+}

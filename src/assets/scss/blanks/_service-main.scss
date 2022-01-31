@@ -1,0 +1,192 @@
+.service{
+    .grid{
+        display: none;
+    }
+    &--page{
+        position: relative;
+        min-height: 480px;
+    }
+    &__form--page{
+        display: none;
+    }
+    &__bg--page{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+        overflow: hidden;
+        video{
+            display: none;
+        }
+        &::before{
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(71, 77, 87, 0.7);
+            z-index: 1;
+        }
+        & > *{
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translate(-50%,0);
+            min-width: 100%;
+            min-height: 100%;
+            height: 100%;
+        }
+    }
+    &__content--page{
+        position: absolute;
+        top: 70px;
+        left: 0;
+        width: 100%;
+        box-sizing: border-box;
+        padding: 0 6.25%;
+        z-index: 2;
+        max-width: 410px;
+
+    }
+    &__title--page{
+        margin-bottom: 25px;
+
+    }
+    &__text--page{
+        margin-bottom: 30px;
+        max-width: 500px;
+    }
+    @media (min-width: 600px){
+        &--page{
+            min-height: 540px;
+            z-index: 2;
+            .grid{
+                display: none;
+            }
+        }
+        &__content--page{
+            padding: 0 2.6%;
+            top: 110px;
+            max-width: none;
+        }
+        &__title--page{
+            margin-left: span(1 of 8);
+            max-width: 550px;
+        }
+        &__button--page{
+            margin-left: span(1 of 8);
+        }
+        &__text--page{
+            max-width: 400px;
+            margin-bottom: 40px;
+            margin-left: span(1 of 8);
+        }
+    }
+    @media (min-width: 960px){
+        &__bg--page{
+            & > *{
+                height: auto;
+                width: 100%;
+
+            }
+        }
+    }
+    @media (min-width: 1200px){
+        .grid{
+            display: block;
+        }
+        &--page{
+            min-height: toRem(500);
+            z-index: 3!important;
+        }
+        &__bg--page{
+            video{
+                display: block;
+                opacity: 0;
+            }
+        }
+        &__content--page{
+            width: span(10 of 12);
+            padding: 0;
+            max-width: none;
+            top: toRem(140);
+            left: span(1 of 12)
+        }
+        &__title--page{
+            margin-left: 0;
+            margin-bottom: toRem(35);
+            width: span(5 of 10);
+            max-width: 800px;
+        }
+        &__button--page{
+            margin-left: 0;
+        }
+        &__text--page{
+            margin-bottom: 0;
+            margin-left: 0;
+            width: span(4 of 10);
+            max-width: 640px;
+        }
+        &__button--page{
+            display: none;
+        }
+        &__form--page{
+            display: block;
+            position: absolute;
+            right: span(1.25 of 12);
+            bottom: -(toRem(63));
+            width: span(3.5 of 12);
+            z-index: 3;
+            max-width: 560px;
+        }
+    }
+
+}
+
+.text--service-main{
+    color: #fff;
+    font-size: 16px;
+    p{
+        line-height: 18px;
+        & + ul{
+            margin-top: 15px;
+        }
+    }
+    li{
+        font-size: 14px;
+        span{
+            background-color: #292929;
+            display: inline-block;
+            padding: 0px 9px 0 6px;
+            line-height: 20px;
+            border-left: 1px solid #fff;
+            margin-left: -1px;
+        }
+        & + li{
+            margin-top: 4px;
+        }
+    }
+    @media (min-width: 1200px){
+        font-size: toRem(16);
+        p{
+            line-height: toRem(18);
+            & + ul{
+                margin-top: toRem(15);
+            }
+        }
+        li{
+            font-size: toRem(14);
+            span{
+                padding: 0px toRem(9) 0 toRem(6);
+                line-height: toRem(20);
+                margin-left: 0;
+            }
+            & + li{
+                margin-top: toRem(4);
+            }
+        }
+    }
+}

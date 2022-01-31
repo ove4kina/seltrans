@@ -1,0 +1,44 @@
+{
+  "content": {
+    "id": "",
+    "name": "Runner «P01-00-0001»",
+    "url": "p-01-00-0001",
+    "description": "<p>The runner consists of a carcass and coal inserts mounted on it. The carcass is designed for mounting on it inserts of types A and B of profile No. 2 according «TU-1916-020-27208846-99».<\/p><p>This structure of the runner provides versatility and the lowest labor costs for the installation of inserts. The carcass includes a large base with a copper tape substrate under the carbon inserts, steel side plates, brass troughs for fixing the inserts, fasteners. The carcass is an improved modification of the previously released analog 5TS.261.002.01.</p><p>The number of rows of carbon inserts is three, mounted according to the 4 + 3 + 4 scheme. The weight of the carcass with 11 coal inserts of types A or B of profile 2 is not more than 12.7 kg. The working length of the outer rows of coal inserts 960 mm. The nominal current of the current collector T-5 in the motion mode is 2030 A with type B inserts. The permissible overload is 40%.</p>",
+    "trains": [
+      {
+        "name": "VL10",
+        "avatar": "\/img\/articles\/trains\/vl10.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      },
+      {
+        "name": "VL11",
+        "avatar": "\/img\/articles\/trains\/vl11.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "\/img\/products\/runners\/p-01-00-0001\/avatar.png",
+        "alt": ""
+      }
+    ],
+    "meta": {
+      "title": "Runner P01-00-0001",
+      "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+    }
+  }
+}

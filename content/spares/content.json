@@ -1,0 +1,152 @@
+{
+  "content": {
+    "en": {
+      "meta": {
+        "title": "Spares",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "Spare parts and components",
+        "spares": [
+          {
+            "title": "Shunts",
+            "photo": "\/img\/products\/spares\/shunt.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/shunt.png",
+            "description": "<p>Serve for the electrical connection of the moving elements of the current collector.<\/p><p class=\"blured\">They are made of «PShch-6» copper wire. Along the edges, there is an end terminal with holes for M10 bolt (1600 and 1400), M8 bolt (800 and 600). Shunts are installed in sections: four shunts (between the upper frame and the runner), two shunts (between the upper frame and the carriage), two shunts (between the upper and lower frame), and two shunts (between the lower frame and the base)<\/p><ul><li><span>АТ-160-000.1300 СБ<\/span><span>АТ-160-000.1300 СБ<\/span><\/li><li><span>АТ-160-000.1400 СБ<\/span><span>АТ-160-000.1450<\/span><\/li><\/ul>",
+            "modifier": "spare__photo--img-long"
+          },
+          {
+            "title": "Rod",
+            "smallPhoto": "\/img\/products\/spares\/mini\/shtanga.png",
+            "photo": "\/img\/products\/spares\/shtanga.png",
+            "description": "<p>The rod assembly (assembling carriage) is designed for the montage a current collector on it.<\/p><p class=\"blured\">It includes a 42x4 mm duralumin base, at the edges of which a plunger lever carriage is installed, which provides the elastodynamic properties of the runner in a vertical plane when it slides along the contact wire.<\/p><ul><li><span>АТ-160-000.0450 СБ (0906.07.000 СБ)<\/span><span>АТ-160-000.0500-50<\/span><\/li><\/ul>"
+          },
+          {
+            "title": "Carriage",
+            "smallPhoto": "\/img\/products\/spares\/mini\/karetka.png",
+            "photo": "\/img\/products\/spares\/karetka.png",
+            "description": "<p>The holder (the plunger lever carriage) is designed for the elastic connection of the runner with the current collector of the electric rolling stock.<\/p><p class=\"blured\">The carriage is used on current collectors of type TL 13, TL 14 of all modifications, current collectors of all TA series produced by SET.<\/p><ul><li><span>АТ-160-000.600 СБ<\/span><span>АТ-160-000.0640 СБ<\/span><\/li><\/ul>"
+          },
+          {
+            "title": "Air spring reel",
+            "photo": "\/img\/products\/spares\/tros.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/tros.png",
+            "description": "<p>The constituent element of the lifting-lowering mechanism is served to transfer the lifting force from the air spring assembly to the bottom frame of the current collector.<\/p><p class=\"blured\">It is used on asymmetric current collectors of light and heavy types, intended for electric rolling stock, AC and DC main railways.<\/p><p class=\"blured\">It consists of a soft stainless steel cable DIN 3060 (GOST 3070-88) with a loop, an eyelet, and an end terminal. Two cables are attached to one air spring<\/p><ul><li><span>АТ-160-000.0900 СБ<\/span><\/li><\/ul>",
+            "modifier": "spare__photo--img-long"
+          },
+          {
+            "title": "Tubular bevel",
+            "photo": "\/img\/products\/spares\/rog.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/rog.png",
+            "description": "<p>It serves for installation on the runner to ensure smooth entry of the contact wire on the working surface of the runner on the arrows of the contact network.<\/p><p class=\"blured\">Made of steel pipe with a protective anti-corrosion coating. Two steel plates with holes are welded to the ends of the pipe for fastening to the carcass of the runner.<\/p><ul><li><span>АТ-160-000.0840 СБ<\/span><\/li><\/ul>"
+          },
+          {
+            "title": "Current collector frame (in the set)",
+            "smallPhoto": "\/img\/products\/spares\/mini\/rama.png",
+            "photo": "\/img\/products\/spares\/rama.png",
+            "description": "<p>It is used on asymmetric current collectors of light and heavy types, intended for electric rolling stock, AC and DC main railways.<\/p><p class=\"blured\">The cradle of current collector frame is generally intended to the vertical displacement of the top roll in the operating region.<\/p><p class=\"blured\">Designed for vertical movement of the top node in the working range and made of pipes and parts of aluminum alloy AMg6. Consists of: pipes, reinforced with linings; cross member, on which the node is installed upper current collector; a mechanism, which serves for the swiveling with the frame and the rod on the other side.<\/p><ul><li><span>АТ-160-000.0300<\/span><span>АТ-160-000.0400<\/span><\/li><li><span>АТ-160-000.0340-10<\/span><span>АТ-160-000.0400-50<\/span><\/li><\/ul>"
+          },
+          {
+            "title": "Air spring",
+            "photo": "\/img\/products\/spares\/pnevmo.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/pnevmo.png",
+            "description": "<p class=\"blured\">The air spring consists of a rubber-cord corps and can be of two types: two-section and three-section. It includes a Z-shaped mechanism that provides a movement in the same plane. It is possible to install a pneumatic fitting.<\/p><ul><li><span>АТ-160-019.0700 СБ<\/span><\/li><\/ul><ol><li><h4>Pressure regulator<\/h4><span>It is destined to reduce the pressure of compressed air and maintain it at a given level with high accuracy.<\/span><span>IR2010-F02<\/span><\/li><li><h4>Pneumatic distribution block<\/h4><span>It includes three types of switches, such as a piston, a roller\/lever, a roller with breaking lever. Return is carried out by a mechanical spring.<\/span><span>338-945 «Camozzi»<\/span><\/li><\/ol>"
+          },
+          {
+            "title": "Carbon-graphite insert",
+            "photo": "\/img\/products\/spares\/uglegraphit.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/uglegraphit.png",
+            "description": "<p>Contact carbon inserts set on the carcass of the runner. Inserts directly spend current collecting from the contact wire.<\/p><ul><li><span>574609.700 КБ<\/span><span>574.700 КЦ<\/span><\/li><\/ul>",
+            "modifier": "spares__photo--img-long"
+          },
+          {
+            "title": "Contacts",
+            "photo": "\/img\/products\/spares\/contacts.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/contacts.png",
+            "description": "<p>Contacts are destined for assembling electrical devices of high-speed switches and contactors. They are used in electric rolling stock of the main and urban ERS, also in traction substations and in non-traction power supply systems.<\/p><p class=\"blured\">Details are manufactured from the powder cooper by the extrusion technique, excluding a porosity and voids.<\/p><ul><li><span>ED 52529<\/span><span>ED 66885<\/span><span>ED 534894<\/span><span>ED 532181<\/span><span>ED 42219<\/span><span>ED 44944<\/span><span>ED 42597<\/span><span>ED 433513<\/span><\/li><li><span>ED 433514<\/span><span>ED 430649<\/span><span>ED 430648<\/span><span>ED 532181<\/span><span>Т93.81.16.00<\/span><span>Т93.71.40.00<\/span><span>8ТР.551.038<\/span><span>8ТР.557.026<\/span><\/li><li><span>8ТР.551.040<\/span><span>8ТР.551.190<\/span><span>8БК.551.088-1<\/span><span>8ТР.551.030<\/span><span>8ТН.551.023<\/span><span>8ТЕ.551.008<\/span><span>8ТЕ.551.009<\/span><\/li><\/ul>"
+          },
+          {
+            "title": "Handrails",
+            "photo": "\/img\/products\/spares\/poruchni.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/poruchni.png",
+            "description": "<p>Serve for installation in the cabin of urban transport.<\/p><p class=\"blured\">Powder coating has both aesthetic and electrical insulating properties.<\/p><p class=\"blured\">They are made of steel oval tube with further powder coating.<\/p><ul><li><span>SRF 94-N2H5-B11040<\/span><span>SRF94-T4W6-B12044<\/span><span>SRF94-T4W6-B21044<\/span><span>SRF94-N2H5-B11039<\/span><span>SRF94-N2L2-B11041<\/span><span>SRF94-N2L2-B12041<\/span><span>SRF94-N2L3-B11040N<\/span><span>SRF94-N2L3-B12040N<\/span><\/li><li><span>SRF94-N2L3-B21040N<\/span><span>SRF94-N2L3-B31040N<\/span><span>SRF94-N2U1-B11041<\/span><span>SRF94-N2U1-B12041<\/span><span>SRF94-N2U1-B21041<\/span><span>SRF94-N2U1-B31041<\/span><span>SRF94-P1HG-011041P<\/span><span>SRF94-P1HG-021041P<\/span><\/li><\/ul>"
+          }
+        ]
+      }
+    },
+    "ru": {
+      "meta": {
+        "title": "Spares",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "Запчасти и комплектующие",
+        "spares": [
+          {
+            "title": "Шунты",
+            "photo": "\/img\/products\/spares\/shunt.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/shunt.png",
+            "description": "<p>Предназначены для электрического соединения подвижных элементов токоприемника.<\/p><p class=\"blured\">Изготавливаются из медной проволоки «ПЩ-6». По краям установлены медные оконцеватели с отверстиями под болт М10 (1600 и 1400), болт М8 (800 и 600) . Шунты устанавливаются по секциями: 4 шунта (между верхней рамой и полозом), 2 шунта (между верхней рамой и креткой), 2 шунта (между верхней и нижней рамой), 2 шунта (между нижней рамой и основанием)<\/p><ul><li><span>АТ-160-000.1300 СБ<\/span><span>АТ-160-000.1300 СБ<\/span><\/li><li><span>АТ-160-000.1400 СБ<\/span><span>АТ-160-000.1450<\/span><\/li><\/ul>",
+            "modifier": "spare__photo--img-long"
+          },
+          {
+            "title": "Штанга",
+            "smallPhoto": "\/img\/products\/spares\/mini\/shtanga.png",
+            "photo": "\/img\/products\/spares\/shtanga.png",
+            "description": "<p>Штанга в сборе (каретка в сборе) предназначена для монтажа на ней полозов токоприемника.<\/p><p class=\"blured\">Включает в себя основание из дюралюминиевой трубы 42х4 мм, по краям которой установлены рычажно - плунжерные каретки, обеспечивающие упругодинамические свойства полоза в вертикальной плоскости, при его скольжении по контактному проводу.<\/p><ul><li><span>АТ-160-000.0450 СБ (0906.07.000 СБ)<\/span><span>АТ-160-000.0500-50<\/span><\/li><\/ul>"
+          },
+          {
+            "title": "Каретка",
+            "smallPhoto": "\/img\/products\/spares\/mini\/karetka.png",
+            "photo": "\/img\/products\/spares\/karetka.png",
+            "description": "<p>Держатель (картека) рычажно-плунжерная предназначена для упругого соединения полоза с токоприемником электроподвижного состава.<\/p><p class=\"blured\">Каретка применяется на токоприемниках типа ТЛ 13, ТЛ 14 всех модификаций, токоприемниках всех серий ТА производства СЭТ.<\/p><ul><li><span>АТ-160-000.600 СБ<\/span><span>АТ-160-000.0640 СБ<\/span><\/li><\/ul>"
+          },
+          {
+            "title": "Трос пневморессоры",
+            "photo": "\/img\/products\/spares\/tros.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/tros.png",
+            "description": "<p>Составной элемент подъемно – опускающего механизма. Предназначен для передачи подъемного усилия от пневморессоры в сборе к нижней раме токоприемника.<\/p><p class=\"blured\">Используется на асимметричных токоприемниках легкого и тяжелого типов, предназначенных для электроподвижного состава соответственно переменного и постоянного тока магистральных железных дорог.<\/p><p class=\"blured\">Состоит из троса мягкого из нержавеющей стали DIN 3060 (ГОСТ 3070-88) с петлей, коушем и оконцевателем. К одной пневморессоре крепятся два троса<\/p><ul><li><span>АТ-160-000.0900 СБ<\/span><\/li><\/ul>",
+            "modifier": "spare__photo--img-long"
+          },
+          {
+            "title": "Трубчатый скос",
+            "photo": "\/img\/products\/spares\/rog.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/rog.png",
+            "description": "<p>Предназанчен для установки на полоз для обеспечения плавного захода контактного провода на рабочую поверхность полоза на стрелках контактной сети.<\/p><p class=\"blured\">Изготовлен из стальной трубы с защитным антикоррозионным покрытием. Для крепления к каркасу полоза к концам трубы приварены две стальные пластины с отверстиями.<\/p><ul><li><span>АТ-160-000.0840 СБ<\/span><\/li><\/ul>"
+          },
+          {
+            "title": "Рама токоприемника(в сборе)",
+            "smallPhoto": "\/img\/products\/spares\/mini\/rama.png",
+            "photo": "\/img\/products\/spares\/rama.png",
+            "description": "<p>Используется на асимметричных токоприемниках легкого и тяжелого типов, предназначенных для электроподвижного состава соответственно переменного и постоянного тока магистральных железных дорог.<\/p><p class=\"blured\">Предназначена для вертикального перемещения узла верхнего в рабочем диапазоне.<\/p><p class=\"blured\">Изготовлена из труб и деталей алюминиевого сплава АМг 6. Состоит из трубы усиленной накладками, поперечины, на которую устанавливается узел верхний токоприемника и механизма для шарнирного соединения с рамой и тягой нижними с другой стороны.<\/p><ul><li><span>АТ-160-000.0300<\/span><span>АТ-160-000.0400<\/span><\/li><li><span>АТ-160-000.0340-10<\/span><span>АТ-160-000.0400-50<\/span><\/li><\/ul>"
+          },
+          {
+            "title": "Пневморессора",
+            "photo": "\/img\/products\/spares\/pnevmo.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/pnevmo.png",
+            "description": "<p class=\"blured\">Пневморессора состоит из резиново-кордной оболочки и бывает двух видов: 2-х и 3-х секционная. Включает Z-образный механизм, обеспечивающий перемешение в одной плоскости. Возможно установить пневматический фитинг.<\/p><ul><li><span>АТ-160-019.0700 СБ<\/span><\/li><\/ul><ol><li><h4>Регулятор давления<\/h4><span>Предназначен для понижения давления сжатого воздуха и поддержания его на заданном уровне с высокой точностью.<\/span><span>IR2010-F02<\/span><\/li><li><h4>Пневмораспределитель<\/h4><span>Включает 3 типа переключателей: плунжер, ролик\/рычаг, ролик с ломающимся рычагом. Возврат осуществляется механической пружиной.<\/span><span>338-945 «Camozzi»<\/span><\/li><\/ol>"
+          },
+          {
+            "title": "Углеграфитовая вставка",
+            "photo": "\/img\/products\/spares\/uglegraphit.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/uglegraphit.png",
+            "description": "<p>Контактные углеграфитовые вставки устанавливают на каркасе полоза. Вставки непосредственно осуществляют токосъем с контактного провода.<\/p><ul><li><span>574609.700 КБ<\/span><span>574.700 КЦ<\/span><\/li><\/ul>",
+            "modifier": "spares__photo--img-long"
+          },
+          {
+            "title": "Контакты",
+            "photo": "\/img\/products\/spares\/contacts.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/contacts.png",
+            "description": "<p>Предназначены для комплектации электрических аппаратов быстро-действующих выключателей и контакторов, используемых в электроподвижном со-ставе магистрального и городского ЭПС, на тяговых подстанциях и в системах нетягового электроснабжения.<\/p><p class=\"blured\">Изготавливаются из порошковой меди методом экструзии, исключающей пористость и раковины.<\/p><ul><li><span>ED 52529<\/span><span>ED 66885<\/span><span>ED 534894<\/span><span>ED 532181<\/span><span>ED 42219<\/span><span>ED 44944<\/span><span>ED 42597<\/span><span>ED 433513<\/span><\/li><li><span>ED 433514<\/span><span>ED 430649<\/span><span>ED 430648<\/span><span>ED 532181<\/span><span>Т93.81.16.00<\/span><span>Т93.71.40.00<\/span><span>8ТР.551.038<\/span><span>8ТР.557.026<\/span><\/li><li><span>8ТР.551.040<\/span><span>8ТР.551.190<\/span><span>8БК.551.088-1<\/span><span>8ТР.551.030<\/span><span>8ТН.551.023<\/span><span>8ТЕ.551.008<\/span><span>8ТЕ.551.009<\/span><\/li><\/ul>"
+          },
+          {
+            "title": "Поручни",
+            "photo": "\/img\/products\/spares\/poruchni.png",
+            "smallPhoto": "\/img\/products\/spares\/mini\/poruchni.png",
+            "description": "<p>Предназначены для установки в салоне городского транспорта.<\/p><p class=\"blured\">Порошковое покрытие обеспечивает помимо эстетических также электроизоляционные свойства поручня.<\/p><p class=\"blured\">Изготавливаются из стальной овальной трубы с дальнейшим порошковым покрытием.<\/p><ul><li><span>SRF 94-N2H5-B11040<\/span><span>SRF94-T4W6-B12044<\/span><span>SRF94-T4W6-B21044<\/span><span>SRF94-N2H5-B11039<\/span><span>SRF94-N2L2-B11041<\/span><span>SRF94-N2L2-B12041<\/span><span>SRF94-N2L3-B11040N<\/span><span>SRF94-N2L3-B12040N<\/span><\/li><li><span>SRF94-N2L3-B21040N<\/span><span>SRF94-N2L3-B31040N<\/span><span>SRF94-N2U1-B11041<\/span><span>SRF94-N2U1-B12041<\/span><span>SRF94-N2U1-B21041<\/span><span>SRF94-N2U1-B31041<\/span><span>SRF94-P1HG-011041P<\/span><span>SRF94-P1HG-021041P<\/span><\/li><\/ul>"
+          }
+        ]
+      }
+    }
+  }
+}

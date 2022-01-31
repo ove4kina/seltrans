@@ -1,0 +1,41 @@
+@import '/utility/_reset.scss';
+@import '/utility/_swiper.scss';
+@import '/utility/_vars';
+@import '/utility/_common';
+@import '/utility/_ui';
+
+@import '/blanks/_video';
+@import '/blanks/_rain';
+@import '/blanks/_grid';
+@import '/blanks/_transition-grid';
+@import '/blanks/_header';
+@import '/blanks/_service-main';
+@import '/blanks/_menu-critical';
+@import '/blanks/_popup-critical';
+
+@import '/pages/index/_main';
+@import '/blanks/_menu-main';
+@import '/pages/product/_product';
+@import '/pages/products/_products';
+@import '/pages/products-list/_products-list';
+@import '/pages/article/_article';
+@import '/pages/engineering/_about';
+@import '/pages/modeling/_benefits';
+@import '/pages/blog/_blog';
+@import '/pages/history/_history';
+@import '/pages/contacts/_contacts';
+@import '/pages/about/_about-critical';
+@import '/pages/privacy/_privacy';
+
+@import '/blanks/_popup-search--critical';
+@import '/blanks/_service-block';
+
+
+@import '/pages/about/_about-main';
+@import '/pages/index/_partners';
+@import '/pages/index/_services';
+@import '/pages/index/_to-history';
+@import '/pages/index/_contacts';
+@import '/pages/not-found/_notfound';
+@import '/pages/products-list/_product-setup';
+@import '/pages/spares/_spares';

@@ -1,0 +1,40 @@
+{
+  "content": {
+    "ru": {
+      "id": "",
+      "name": "Струны контактной сети",
+      "url": "contact-strings",
+      "description": "<p>Нами освоено автоматизированное производство звеньевых струн контактной подвески железной дороги из биметаллической сталемедной проволоки диаметром 4 мм. В сочленениях звеньевые струны оборудованы медными коушами для обеспечения длительной, надежной работы струны.</p><p>Количество звеньев, их длины, а также материал и толщину коушев изготавливаем по желанию заказчика.</p><p>Наши струны эксплуатируются на контактной сети Московской ж.д. и МЦК.</p>",
+      "gallery": [
+        {
+          "src": "/img/products-set/struni.png",
+          "alt": ""
+        }
+      ],
+      "trains": [
+      ],
+      "meta": {
+        "title": "Струны контактной сети",
+        "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+      }
+    },
+    "en": {
+      "id": "",
+      "name": "Droppers of a contact system",
+      "url": "contact-strings",
+      "description": "<p>We have mastered the automated production of link strings of the contact suspension of the railway from bimetallic steel-copper wire with a diameter of 4 mm. In the connection of the links, the strings are equipped with copper eyelet to ensure long, reliable operation of the string.</p><p>The number of links, their length, as well as the material and thickness of the eyelets, are made by the customer.</p><p>Our strings are operated on the contact network of the Moscow Railway and MCR.</p>",
+      "gallery": [
+        {
+          "src": "/img/products-set/struni.png",
+          "alt": ""
+        }
+      ],
+      "trains": [
+      ],
+      "meta": {
+        "title": "Droppers of a contact system",
+        "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+      }
+    }
+  }
+}

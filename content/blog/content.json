@@ -1,0 +1,26 @@
+{
+  "content": {
+    "en": {
+      "meta": {
+        "title": "Blog",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "Blog",
+        "description": "We collect and share interesting information, review the latest innovations of our production, review cases.",
+        "loadButton": "Load more"
+      }
+    },
+    "ru": {
+      "meta": {
+        "title": "Блог",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "Блог",
+        "description": "Мы собираем и делимся интересной информацией, обозреваем последние инновации нашего производства, рассматриваем кейсы и делаем интересные обзоры.",
+        "loadButton": "Загрузить еще"
+      }
+    }
+  }
+}

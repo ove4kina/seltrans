@@ -1,0 +1,104 @@
+{
+  "content": {
+    "en": {
+      "meta": {
+        "title": "Products",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "Products",
+        "description": "Since 1992, the company «S Electrotransport» produces components for electric locomotives, electric trains, railway transport, and urban electric transport.",
+        "products": [
+          {
+            "title": "Current collectors",
+            "description": "They are installed on electric rolling stock (ERS) and provide current transfer from an overhead contact line to the ERS traction engine",
+            "link": {
+              "url": "\/en\/products\/current-collectors"
+            },
+            "model": {
+              "name": "Current collector «LA 19-SET 160 1200»",
+              "description": "Equipped with automatic lowering systems, which are triggered when the current collector is raised to a height of more than 7000 mm above the railhead level.",
+              "link": "\/en\/products\/current-collectors\/la-19-sat-160-1200"
+            }
+          },
+          {
+            "title": "Runners",
+            "description": "Served for installation on current collectors and transfer of electric current from the contact wire to the current collector. The main part is a current collecting element, which provides sliding contact on the wire.",
+            "link": {
+              "url": "\/en\/products\/runners"
+            },
+            "model": {
+              "name": "Runner «P01-00-0001»",
+              "description": "Runner carcass provides versatility and lowest cost of labor for the installation of inserts.",
+              "link": "\/en\/products\/runners\/p-01-00-0001"
+            }
+          },
+          {
+            "title": "Droppers of a contact system",
+            "description": "The element of overhead contact line intended for suspension of contact wire to the messenger wire.",
+            "link": {
+              "url": "/en/products/contact-strings"
+            }
+          },
+          {
+            "title": "Spare parts and accessories",
+            "description": "",
+            "link": {
+              "url": "\/en\/spares"
+            }
+          }
+        ]
+      }
+    },
+    "ru": {
+      "meta": {
+        "title": "Продукция",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "Продукция",
+        "description": "С 1992 года предприятие «С Электронспорт» производит комплектующие для электровозов, электропоездов ж.д. транспорта и городского электротранспорта.",
+        "products": [
+          {
+            "title": "Токоприемники",
+            "description": "Устанавливаются на электроподвижной состав (ЭПС) и обеспечивают передачу тока от тяговой сети на тяговый двигатель ЭПС.",
+            "link": {
+              "url": "\/ru\/products\/current-collectors"
+            },
+            "model": {
+              "name": "Токоприемник «ЛA 19-СЭТ 160 1200»",
+              "description": "Снабжен системой автоматического опускания, срабатывающей при поднятии токоприемника на высоту более 7000 мм над уровнем головки рельса и разрушении вставок полоза",
+              "link": "\/ru\/products\/current-collectors\/la-19-sat-160-1200"
+            }
+          },
+          {
+            "title": "Полоза",
+            "description": "Предназначены для установки на токоприемники и передачи электрического тока с контактного провода на токоприемник. Основная деталь — токосъемный элемент, обеспечивающий токосъем.",
+            "link": {
+              "url": "\/ru\/products\/runners"
+            },
+            "model": {
+              "name": "Полоз «П01-00-0001»",
+              "description": "Каркас полоза обеспечивает универсальность применения и наименьшие затраты труда на монтаж вставок.",
+              "link": "\/ru\/products\/runners\/p-01-00-0001"
+            }
+          },
+          {
+            "title": "Струны контактной сети",
+            "description": "Элемент цепной контактной подвески, предназаначенный для подвешивания контаткного провода к несущему тросу.",
+            "link": {
+              "url": "/ru/products/contact-strings"
+            }
+          },
+          {
+            "title": "Запчасти и комплектующие",
+            "description": "",
+            "link": {
+              "url": "\/ru\/spares"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

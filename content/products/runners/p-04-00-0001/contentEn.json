@@ -1,0 +1,68 @@
+{
+  "content": {
+    "id": "",
+    "name": "Runner «P04-00-0001»",
+    "url": "p-04-00-0001",
+    "description": "<p>The runner in the set (runner frame with metal-ceramic contact plates) is designed to transfer electric current from the contact network to the electric rolling stock.</p><p>The runner provides versatility and lowest cost of labor for the installation of inserts.</p><p>Ten pieces of metal-ceramic contact plates of type VZhZP are located in four rows. They are mounted according to the scheme 3 + 2 + 2 + 3. The nominal current of the current collector in motion mode is 2500 A.</p>",
+    "gallery": [
+      {
+        "src": "/img/products/runners/p-04-00-0001/avatar.jpg",
+        "alt": ""
+      }
+    ],
+    "trains": [
+      {
+        "name": "TschS2T",
+        "avatar": "/img/articles/trains/чс2т.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      },
+      {
+        "name": "TschS6",
+        "avatar": "/img/articles/trains/чс6.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      },
+      {
+        "name": "TschS7",
+        "avatar": "/img/articles/trains/чс7.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      },
+      {
+        "name": "2ES10",
+        "avatar": "/img/articles/trains/2es10.jpg",
+        "tags": [
+          {
+            "name": "ERS"
+          },
+          {
+            "name": "Our clients"
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Runner P04-00-0001",
+      "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+    }
+  }
+}

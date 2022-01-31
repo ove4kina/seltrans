@@ -1,0 +1,146 @@
+.form-order{
+    background-color: $blue;
+    padding: 30px 6.25%;
+    &__left{
+        margin-bottom: 30px;
+        max-width: 400px;
+    }
+    &__right{
+        max-width: 400px;
+    }
+    &__title{
+        margin-bottom: 20px;
+    }
+    @media (min-width: 600px){
+        padding: 60px 2.6% 100px;
+        &__title{
+            margin-bottom: 25px;
+        }
+        &__left{
+            margin-left: span(1 of 8);
+            width: span(5 of 8);
+            margin-bottom: 40px;
+            max-width: 550px;
+        }
+        &__right{
+            margin-left: span(1 of 8);
+            width: span(6 of 8);
+            max-width: 480px;
+        }
+    }
+    @media (min-width: 600px){
+        .grid{
+            display: none;
+        }
+    }
+    @media (min-width: 768px){
+
+        &__right{
+            width: span(5 of 8);
+            max-width: 550px;
+        }
+    }
+    @media (min-width: 1200px){
+        padding: toRem(60) span(1 of 12);
+        position: relative;
+        .grid{
+            display: block;
+        }
+        &__title{
+            margin-bottom: toRem(40);
+        }
+        &__left{
+            margin-left: 0;
+            width: span(5 of 10);
+            margin-bottom: 0;
+            margin-top: toRem(35);
+            display: inline-block;
+            vertical-align: top;
+            max-width: 800px;
+        }
+        &__right{
+            margin-left: span(1.25 of 10);
+            width: span(3.5 of 10);
+            max-width: 560px;
+            display: inline-block;
+            vertical-align: top;
+        }
+    }
+
+}
+
+.text--form-order{
+    color: #fff;
+    font-size: 14px;
+    p{
+        line-height: 16px;
+        &.blured{
+            color: rgba(255, 255, 255, 0.5);
+        }
+        & + p.blured{
+            margin-top: 20px;
+        }
+    }
+    li{
+        line-height: 16px;
+        & + li{
+            margin-top: 15px;
+        }
+    }
+
+    @media (min-width: 600px){
+        font-size: 16px;
+        p{
+            line-height: 18px;
+            &.blured{
+                font-size: 14px;
+                line-height: 16px;
+            }
+        }
+        li{
+            line-height: 18px;
+            & + li{
+                margin-top: 20px;
+            }
+        }
+
+    }
+    @media (min-width: 1200px){
+        font-size: toRem(16);
+        p{
+            line-height: toRem(18);
+            &.blured{
+                font-size: toRem(16);
+                line-height: toRem(18);
+            }
+            & + p{
+                margin-top: toRem(20);
+            }
+            & + p.blured{
+                margin-top: toRem(75);
+            }
+        }
+        ol{
+            counter-reset: myCounter;
+        }
+        li{
+            line-height: toRem(18);
+            padding-left: toRem(32);
+            position: relative;
+            &::before{
+                counter-increment: myCounter;
+                content:counter(myCounter) '.';
+                position: absolute;
+                left: toRem(18);
+                top: 0;
+                font-size: toRem(16);
+                color: #fff;
+            }
+            & + li{
+                margin-top: toRem(30);
+            }
+        }
+
+    }
+}
+

@@ -1,0 +1,404 @@
+{
+  "ru": [
+    {
+      "name": "ЭС - 250",
+      "url": "/ru/blog/es-250",
+      "avatar": "/img/articles/es-250/1.jpg",
+      "tags": [
+        {
+          "name": "ЭПС",
+          "url": "train"
+        },
+        {
+          "name": "ЭС - 250",
+          "url": ""
+        }
+      ],
+      "date": "16 Декабря",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "2ЭС6-001",
+      "url": "/ru/blog/2es6-001",
+      "avatar": "/img/articles/2es6-001/1.jpg",
+      "tags": [
+        {
+          "name": "ЭПС",
+          "url": "train"
+        },
+        {
+          "name": "2ЭС6-001",
+          "url": ""
+        }
+      ],
+      "date": "16 Декабря",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "ЧС200-003 ",
+      "url": "/ru/blog/chs200-003",
+      "avatar": "/img/articles/chs200-003/1.jpg",
+      "tags": [
+        {
+          "name": "ЭПС",
+          "url": "train"
+        },
+        {
+          "name": "ЧС200-003 ",
+          "url": ""
+        }
+      ],
+      "date": "16 Декабря",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "ЧС200-001 ",
+      "url": "/ru/blog/chs200-001",
+      "avatar": "/img/articles/chs200-001/1.jpg",
+      "tags": [
+        {
+          "name": "ЭПС",
+          "url": "train"
+        },
+        {
+          "name": "ЧС200-001 ",
+          "url": ""
+        }
+      ],
+      "date": "16 Декабря",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "2ЭС7",
+      "url": "/ru/blog/2es7",
+      "avatar": "/img/articles/2es7/1.jpg",
+      "tags": [
+        {
+          "name": "ЭПС",
+          "url": "train"
+        },
+        {
+          "name": "2ЭС7",
+          "url": ""
+        }
+      ],
+      "date": "16 Декабря",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "ЭП2Д",
+      "url": "/ru/blog/ep2d",
+      "avatar": "/img/articles/ep2d/1.jpg",
+      "tags": [
+        {
+          "name": "ЭПС",
+          "url": "train"
+        },
+        {
+          "name": "ЭП2Д",
+          "url": ""
+        }
+      ],
+      "date": "16 Декабря",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "ЭП1 ",
+      "url": "/ru/blog/ep1",
+      "avatar": "/img/articles/ep1/1.jpg",
+      "tags": [
+        {
+          "name": "ЭПС",
+          "url": "train"
+        },
+        {
+          "name": "ЭП1",
+          "url": ""
+        }
+      ],
+      "date": "16 Декабря",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "Из чего состоит токоприемник",
+      "url": "/ru/blog/what-does-the-current-collector-consist-of",
+      "avatar": "/img/articles/what-does-the-current-collector-consist-of/1.jpg",
+      "tags": [
+        {
+          "name": "Производство",
+          "url": "production"
+        },
+        {
+          "name": "Токоприемник",
+          "url": ""
+        }
+      ],
+      "date": "16 Декабря",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "Разработка чертежей для производства нестандартного оборудования",
+      "url": "/ru/blog/development-of-drawings-for-the-production-of-custom-equipment",
+      "avatar": "/img/articles/development-of-drawings-for-the-production-of-custom-equipment/1.jpg",
+      "tags": [
+        {
+          "name": "Моделирование",
+          "url": "modeling"
+        },
+        {
+          "name": "Разработка оборудования",
+          "url": ""
+        }
+      ],
+      "date": "16 Декабря",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "Процесс изготовления промышленных образцов продукции",
+      "url": "/ru/blog/the-process-of-manufacturing-industrial-designs-of-products",
+      "avatar": "/img/articles/the-process-of-manufacturing-industrial-designs-of-products/1.jpg",
+      "tags": [
+        {
+          "name": "Образцы продукции",
+          "url": ""
+        },
+        {
+          "name": "Производство",
+          "url": "production"
+        }
+      ],
+      "date": "16 Декабря",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "«LEO Express» 20 июля начнет обслуживать маршрут Прага - Краков",
+      "url": "/ru/blog/leo-express",
+      "avatar": "/img/articles/leo.jpg",
+      "tags": [
+        {
+          "name": "ЭПС",
+          "url": "train"
+        },
+        {
+          "name": "Kraków",
+          "url": ""
+        }
+      ],
+      "date": "29 Сентября",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "Четырехвагонный электропоезд «Stadler»",
+      "url": "/ru/blog/four-horsepower-electric-train-stadler",
+      "avatar": "/img/articles/stadler.jpg",
+      "tags": [
+        {
+          "name": "ЭПС",
+          "url": "train"
+        },
+        {
+          "name": "Sweden",
+          "url": ""
+        }
+      ],
+      "date": "29 Сентября",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "Гонконгский экспресс",
+      "url": "/ru/blog/hong-kong-express",
+      "avatar": "/img/articles/mtr.jpg",
+      "tags": [
+        {
+          "name": "ЭПС",
+          "url": "train"
+        },
+        {
+          "name": "Hong Kong",
+          "url": ""
+        }
+      ],
+      "date": "29 Сентября",
+      "classes": {
+        "gradient": "article__photo--gradient-gray",
+        "size": "",
+        "half": "article__photo--half",
+        "color": "--black"
+      }
+    },
+    {
+      "name": "«Alstom» представила новый дизайн «Aptis»",
+      "url": "/ru/blog/alstom-introduced-the-new-design-of-aptis",
+      "avatar": "/img/articles/alston.jpg",
+      "tags": [
+        {
+          "name": "Alstom",
+          "url": ""
+        }
+      ],
+      "date": "29 Сентября",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "blog__item--big",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "Выставка «InnoTrans»",
+      "url": "/ru/blog/exhibition-innotrans",
+      "avatar": "/img/articles/inno.jpg",
+      "tags": [
+        {
+          "name": "Мероприятие",
+          "url": ""
+        }
+      ],
+      "date": "29 Сентября",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half":  "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "Латвийские железные дороги",
+      "url": "/ru/blog/latvian-railways",
+      "avatar": "/img/articles/latvian.jpg",
+      "tags": [
+        {
+          "name": "Железные дороги",
+          "url": ""
+        }
+      ],
+      "date": "29 Сентября",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "Патент на электрический пылесос",
+      "url": "/ru/blog/patent-for-electric-vacuum-cleaner",
+      "avatar": "/img/articles/pilesos.jpg",
+      "tags": [
+        {
+          "name": "История",
+          "url": ""
+        }
+      ],
+      "date": "29 Сентября",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "article__photo--half",
+        "color": "--black"
+      }
+    },
+    {
+      "name": "Состав «Pendolino» в Греции",
+      "url": "/ru/blog/pendolino-train-in-greece",
+      "avatar": "/img/articles/pendolino.jpg",
+      "tags": [
+        {
+          "name": "Pendolino",
+          "url": ""
+        },
+        {
+          "name": "Greece",
+          "url": ""
+        }
+      ],
+      "date": "29 Сентября",
+      "classes": {
+        "gradient": "article__photo--gradient-gray",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    },
+    {
+      "name": "«Talgo» подписала 10-летнее стратегическое соглашение с «CRRC Sifang»",
+      "url": "/ru/blog/talgo-signed-a-10-year-strategic-agreement",
+      "avatar": "/img/articles/talgo.png",
+      "tags": [
+        {
+          "name": "Железные дороги",
+          "url": ""
+        }
+      ],
+      "date": "29 Сентября",
+      "classes": {
+        "gradient": "article__photo--gradient-red",
+        "size": "",
+        "half": "",
+        "color": "--white"
+      }
+    }
+  ],
+  "en": [
+  ]
+}

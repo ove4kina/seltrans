@@ -1,0 +1,112 @@
+{
+  "content": {
+    "id": "",
+    "name": "Токоприемник «ЛA 19-21-СЭТ 155 800»",
+    "url": "la-19-21-sat-155-800",
+    "description": "<p>Тяговый электрический аппарат, предназначенный для создания электрического контакта электрооборудования подвижного состава (ЭПС) с контактной сетью.</p><p>Снабжен блоком управления (расположен в кузове ЭПС) обеспечивающим контроль активации токоприемника и контроль положения полоза.</p><p>Снимаемый ток до 800 А при движении и до 250 А на стоянке, от контактной сети напряжением 3000 В и скорости движения ЭПС до 155 км/ч.</p>",
+    "gallery": [
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/1.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/2.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/3.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/4.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/5.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/6.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/7.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/8.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/9.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/10.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/11.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/12.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/13.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/14.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/15.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/16.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/17.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/18.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/19.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/20.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-21-sat-155-800/21.png",
+        "alt": ""
+      }
+    ],
+    "trains": [
+      {
+        "name": "ЭП2Д",
+        "avatar": "/img/articles/trains/ep2d.jpg",
+        "tags": [
+          {
+            "name": "ЭПС"
+          },
+          {
+            "name": "Наши клиенты"
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Модель ЛA 19-21-СЭТ 155 800",
+      "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+    }
+  }
+}

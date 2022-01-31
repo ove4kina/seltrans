@@ -1,0 +1,142 @@
+{
+  "content": {
+    "en": {
+      "meta": {
+        "title": "Engineering",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "Our experience",
+        "description": "In our regular staff includes professional CGI specialists, engineers, designers who work on the creation of polygonal and solid-state 3D models of any complexity.",
+        "historyLink": {
+          "name": "Our history",
+          "link": "\/en\/history"
+        },
+        "visualSet": "We have designed and produced more than 120 models of industrial equipment",
+        "stages": [
+          {
+            "title": "Production of non-standard equipment",
+            "description": "<p>All work is spent in accordance with the Customer’s Terms of Reference, and the project documentation is carried out in strict accordance with GOST, ESKD, Technical Regulations, and other regulatory documents.<\/p><p>We have experience in developing equipment for:<\/p><ul><li>Modernizing your production<\/li><li>Lifting machines of different scales<\/li><li>Modernization of existing equipment<\/li><li>Movement of products: conveyors, carts, chassis, etc.<\/li><li>Serial production of industrial profile<\/li><\/ul>",
+            "case": {
+              "title": "Industrial air gripper",
+              "show": "Watch case",
+              "link": "\/en\/products\/current-collectors",
+              "description": "If it is necessary, we take a trip to the territory of the customer to discuss technical issues and obtain more detailed information about the product that will be developed. It does not matter where the location of your company, we work throughout Russia."
+            }
+          },
+          {
+            "title": "Preparation and audit of technical documentation",
+            "description": "<p>We also provide the service of developing documentation for equipment both as a package of services and separately.<\/p><ul><li>We conduct an audit of products and technical documentation<\/li><li>Development of WCD for the experienced model of your product<\/li><li>The actualization of archive documentation<\/li><li>Digitization of paper drawings<\/li><li>Design drawings in accordance with the current GOST, ESKD<\/li><li>Making the constructing changes to the drawings<\/li><\/ul>"
+          },
+          {
+            "title": "Sample making",
+            "description": "In our production, we can produce industrial samples of your products not only in the final form but also we can create a prototype of ABS, PLA or polycarbonate on a 3D printer."
+          }
+        ],
+        "serviceMain": {
+          "title": "Production and design of non-standard equipment to order",
+          "description": "<p>Our plant’s design department can embody almost any of your ideas and design even the most complex equipment, including technical documentation and outsourcing audits<\/p>",
+          "media": {
+            "backgroundImage": "\/img\/services\/engineering--",
+            "backgroundVideo": "\/video\/index\/services\/2"
+          },
+          "button": {
+            "name": "Leave a request"
+          }
+        },
+        "orderBlock": {
+          "title": "How to compose a technical task?",
+          "description": "<ol><li>Describe the product, scope and possible limitations that the product may encounter during the exploitation.<\/li><li>Make clear requirements to the size of manufactured products and attach the existing technical documentation.<\/li><li>Describe the wishes of the materials which will be used for the post-render and attach possible examples of the final work.<\/li><\/ol>"
+        },
+        "serviceBlock": {
+          "media": {
+            "backgroundImage": "\/img\/services\/modeling--",
+            "backgroundVideo": "\/video\/index\/services\/1"
+          },
+          "title": "3D objects modeling and prototyping",
+          "description": "<p>Product development (3D modeling) and design documentation (drawings) are Computer-Aided Design (CAD)-based:<\/p>   <ul><li><span>SolidWorks-2014<\/span><\/li><li><span>AutoCAD-LT2014<\/span><\/li><li><span>Компас-V16<\/span><\/li><\/ul>",
+          "link": {
+            "name": "Go to section",
+            "src": "\/en\/modeling"
+          }
+        },
+        "content": {
+          "stages": [
+            {
+              "title": "Production of non-standard equipment"
+            }
+          ]
+        }
+      }
+    },
+    "ru": {
+      "meta": {
+        "title": "Проектирование и производство нестандартного оборудования",
+        "meta": "<meta name=\"description\" content=\"Конструкторское бюро нашего завода может воплотить практически любую вашу задумку и спроектировать даже самое сложное оборудование, включая техническую документаци и аутсорс-аудит.\"\/>"
+      },
+      "text": {
+        "title": "Наш опыт",
+        "description": "В нашем постоянном штате работают профессиональные CGI-специалисты, инженеры, дизайнеры, которые трудятся над созданием полигональных и твердотельных 3D-моделей любой сложности.",
+        "historyLink": {
+          "name": "Наша история",
+          "link": "\/ru\/history"
+        },
+        "visualSet": "Спроектировали и произвели более 120 моделей промышленного оборудования",
+        "stages": [
+          {
+            "title": "Производство нестандартного оборудования",
+            "description": "<p>Все работы выполняются в соответствии с Техническим заданием Заказчика, а конструкторская документация выполняется в строгом соответствии с ГОСТ, ЕСКД, Техрегламентам и прочим нормативным документам.<\/p><p>У нас есть опыт разработки оборудования для:<\/p><ul><li>Модернизации вашего производства<\/li><li>Грузоподъемных механизмов разных масштабов<\/li><li>Модернизации существующего оборудования<\/li><li>Перемещения изделий: конвейеры, тележки, шасси и пр.<\/li><li>Серийного производства промышленного профиля<\/li><\/ul>",
+            "case": {
+              "title": "Промышленный пневмозахват",
+              "show": "Смотреть кейс",
+              "link": "\/ru\/products\/current-collectors",
+              "description": "При необходимости осуществляем выезд на территорию Заказчика для обсуждения технических вопросов и получения более подробной информации на разрабатываемое изделие. Месторасположение Вашей компании не имеет значение- мы работаем по всей России."
+            }
+          },
+          {
+            "title": "Разработка и аудит конструкторской документации",
+            "description": "<p>Мы также оказываем услугу разработки документации к оборудованию как в пакете услуг, так и отдельно. Проводим аудит и технический анализ вашей документации.<\/p><ul><li>Разработка РКД на опытный образец вашего изделия<\/li><li>Разработка РКД на модернизированное изделие<\/li><li>Актуализация архивной документации<\/li><li>Оцифровка чертежей, выполненных на бумаге<\/li><li>Оформление чертежей в соответствии с действующими ГОСТ, ЕСКД<\/li><li>Внесение конструкторских изменений в чертежи<\/li><\/ul>"
+          },
+          {
+            "title": "Изготовление образцов",
+            "description": "На нашем производстве мы можем изготовить промышленные образцы вашей продукции не только в итоговом виде, но и создать опытный образец из ABS, PLA или поликарбоната на 3D-принтере."
+          }
+        ],
+        "serviceMain": {
+          "title": "Проектирование и производство нестандартного оборудования на заказ",
+          "description": "<p>Конструкторское бюро нашего завода может воплотить практически любую вашу задумку и спроектировать даже самое сложное оборудование, включая техническую документаци и аутсорс-аудит<\/p>",
+          "media": {
+            "backgroundImage": "\/img\/services\/engineering--",
+            "backgroundVideo": "\/video\/index\/services\/2"
+          },
+          "button": {
+            "name": "Оставить заявку"
+          }
+        },
+        "orderBlock": {
+          "title": "Как составить техническое задание?",
+          "description": "<ol><li>Описать продукт, область применения и возможные ограничения, с которыми может столкнуться продукт во время экспулатациии.<\/li><li>Составить четкие требования к размерам изготавляемой продукции и приложить имеющуюся техническую документацию.<\/li><li>Описать пожелания к используемым материалам для пост-рендера и приложить возможные примеры итоговой работы.<\/li><\/ol>"
+        },
+        "serviceBlock": {
+          "media": {
+            "backgroundImage": "\/img\/services\/modeling--",
+            "backgroundVideo": "\/video\/index\/services\/1"
+          },
+          "title": "Моделирование и прототипирование 3D-объектов",
+          "description": "<p>Разработка изделий (3D-моделирование) и оформление конструкторской документации (чертежей) осуществляется на лицензионных САПР:<\/p>   <ul><li><span>SolidWorks-2014<\/span><\/li><li><span>AutoCAD-LT2014<\/span><\/li><li><span>Компас-V16<\/span><\/li><\/ul>",
+          "link": {
+            "name": "Перейти в раздел",
+            "src": "\/ru\/modeling"
+          }
+        },
+        "content": {
+          "stages": [
+            {
+              "title": "Производство нестандартного оборудования"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

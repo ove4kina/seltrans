@@ -1,0 +1,210 @@
+{
+  "content": {
+    "en": {
+      "meta": {
+        "title": "Main",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "slider": [
+          {
+            "title": "Production of current collector equipment for electric transport",
+            "link": "\/en\/products",
+            "name": "Production"
+          },
+          {
+            "title": "Non-standard equipment of any complexity",
+            "link": "\/en\/engineering",
+            "name": "Learn more"
+          },
+          {
+            "title": "13 patents, <\/br>  a staff of 33 people <\/br> and 13 functioning workshops",
+            "link": "\/en\/history",
+            "name": "Our history"
+          }
+        ],
+        "benefits": [
+          {
+            "name": "Modern production",
+            "src": "\/img\/svg-icons\/modern.svg",
+            "alt": ""
+          },
+          {
+            "name": "Patented design",
+            "src": "\/img\/svg-icons\/patent.svg",
+            "alt": ""
+          },
+          {
+            "name": "24 reliable partners",
+            "src": "\/img\/svg-icons\/partners.svg",
+            "alt": ""
+          }
+        ],
+        "aboutButton": {
+          "name": "About company",
+          "link": ""
+        },
+        "team": {
+          "title": "Solid team",
+          "description": "<p>Our professional staff provides high-quality production due <span>to our twenty years experienced staff<\/span>, competent advanced training policies, staff turnover absence, as well as own domestic and European quality standards introduction.<\/p>",
+          "link": {
+            "name": "About company",
+            "src": "\/en\/about"
+          }
+        },
+        "partners": {
+          "title": "Our partners"
+        },
+        "services": {
+          "title": "Products and Services",
+          "description": "We produce and repair current collectors, model and create custom-made devices, conduct an audit of products and technical documentation.",
+          "service": [
+            {
+              "title": "Current collectors and accessories",
+              "description": "Our products are used in the operation of electric trains such as «ES2G» (Swallow), «EP2D», «EP3D». They are also utilized in operate of electric freight locomotives «2ES6», in continuous current locomotives «2ES10», in alternating current locomotive «2ES7», plus in dual-voltage electric locomotives «2EB120». Measuring current collectors are installed on the wagon-labs test of contact network.",
+              "link": {
+                "name": "Products",
+                "src": "\/en\/products#"
+              }
+            },
+            {
+              "title": "Production and design of non-standard equipment",
+              "description": "<p>We integrated modern equipment into our production: CNC grinders for metalworking, pressing, welding, painting, and joinery. All processes, including production, are certified in accordance with «ISO\/TS 22163:2017».<\/p><ul><li><span>Production of serial products<\/span><\/li><li><span>Fabrication and testing of experienced models<\/span><\/li><\/ul>",
+              "link": {
+                "name": "Go to section",
+                "src": "\/en\/engineering#engineering"
+              }
+            },
+            {
+              "title": "Design department",
+              "description": "<p class=\"blured\">Modeling and prototyping to order<\/p><p>The design department of our factory can embody almost any of your ideas and design even the most complex equipment.<\/p><ul><li><span>Modeling<\/span><\/li><li><span>Prototyping<\/span><\/li><li><span>Preparation of technical documentation<\/span><\/li><li><span>Audit of technical documentation<\/span><\/li><li><span>Development of equipment of any complexity<\/span><\/li><\/ul>",
+              "link": {
+                "name": "View services",
+                "src": "\/en\/modeling#modeling"
+              }
+            }
+          ]
+        },
+        "history": {
+          "title": "We are proud that our equipment has been used for more than 25 years to create and serve the transport traffic in Russia.",
+          "link": {
+            "name": "Our history",
+            "src": "\/en\/history"
+          }
+        },
+        "contacts": {
+          "title": "Contacts",
+          "address": "Address",
+          "phone": "Phone",
+          "email": "Email",
+          "button": {
+            "name": "Write to us"
+          }
+        }
+      }
+    },
+    "ru": {
+      "meta": {
+        "title": "Завод по производству, ремонту и обслуживанию токосъемного оборудования для электротранспорта",
+        "meta": "<meta name=\"description\" content=\"Завод производит и ремонтирует токосъемное оборудование. Команда специалистов моделирует и производит оборудование на заказ. Современные станки и высококвалифицированная команда специалистов в России.\"\/>"
+      },
+      "text": {
+        "slider": [
+          {
+            "title": "Производим токосъемное оборудование для электротранспорта",
+            "link": "\/ru\/products",
+            "name": "Продукция"
+          },
+          {
+            "title": "Нестандартное оборудование любой сложности",
+            "link": "\/ru\/engineering",
+            "name": "Узнать больше"
+          },
+          {
+            "title": "13 патентов, <\/br>  штат из 33 человек <\/br> и 13 работающих цехов",
+            "link": "\/ru\/history",
+            "name": "Наша история"
+          }
+        ],
+        "benefits": [
+          {
+            "name": "Современное производство",
+            "src": "\/img\/svg-icons\/modern.svg",
+            "alt": ""
+          },
+          {
+            "name": "Запатентованные разработки",
+            "src": "\/img\/svg-icons\/patent.svg",
+            "alt": ""
+          },
+          {
+            "name": "24 надежных партнера",
+            "src": "\/img\/svg-icons\/partners.svg",
+            "alt": ""
+          }
+        ],
+        "aboutButton": {
+          "name": "О компании",
+          "link": ""
+        },
+        "team": {
+          "title": "Мы — команда",
+          "description": "<p>Качество выпускаемой продукции обеспечивается кадровым составом, включающим профессиональных работников <span>с опытом работы более 20 лет<\/span>, отсутствием текучки кадров, грамотной политикой повышения квалификации, а также внедрением собственных, отечественных и Европейских стандартов качества.<\/p>",
+          "link": {
+            "name": "О компании",
+            "src": "\/ru\/about"
+          }
+        },
+        "partners": {
+          "title": "Наши партнеры"
+        },
+        "services": {
+          "title": "Продукция и услуги",
+          "description": "Мы производим и ремонтируем токосъемное оборудование, а также моделируем и производим оборудование на заказ, проводим аудит продукции и технической документации.",
+          "service": [
+            {
+              "title": "Токоприемники и комплектующие",
+              "description": "Наша продукция эксплуатируется на электропоездах «ЭС2Г» (Ласточка), «ЭП2Д», «ЭП3Д». На грузовых электровозах «2ЭС6», «2ЭС10» постоянного тока,  «2ЭС7» переменного тока, а также с двойным питанием «2ЭВ120». Измерительные токоприёмники установлены на вагонах-лабораториях испытаний контактной сети.",
+              "link": {
+                "name": "Продукция",
+                "src": "\/ru\/products#"
+              }
+            },
+            {
+              "title": "Производство и проектирование нестандартного оборудования",
+              "description": "<p>На производстве интегрировано современное оборудование: станки с ЧПУ по металлообработке, прессованию, сварке, покраске и выполнению столярных работ. Все процессы, включая производство, сертифицированы согласно стандарту «ISO\/TS 22163:2017».<\/p><ul><li><span>Изготовление серийной продукции<\/span><\/li><li><span>Изготовление и испытание опытных образцов<\/span><\/li><\/ul>",
+              "link": {
+                "name": "Перейти в раздел",
+                "src": "\/ru\/engineering#engineering"
+              }
+            },
+            {
+              "title": "Конструкторское бюро",
+              "description": "<p class=\"blured\">Моделирование и прототипирование на заказ<\/p><p>Конструкторское бюро нашего завода может воплотить практически любую Вашу задумку и спроектировать даже самое сложное оборудование.<\/p><ul><li><span>Моделирование<\/span><\/li><li><span>Прототипирование<\/span><\/li><li><span>Составление технической документации<\/span><\/li><li><span>Аудит технической докуметации<\/span><\/li><li><span>Разработка оборудования любой сложности<\/span><\/li><\/ul>",
+              "link": {
+                "name": "Посмотреть услуги",
+                "src": "\/ru\/modeling#modeling"
+              }
+            }
+          ]
+        },
+        "history": {
+          "title": "Наше оборудование используется больше 25 лет для создания и обслуживания транспортного движения России",
+          "link": {
+            "name": "Наша история",
+            "src": "\/ru\/history"
+          }
+        },
+        "contacts": {
+          "title": "Контакты",
+          "address": "Адрес",
+          "phone": "Телефон",
+          "email": "Электронная почта",
+          "button": {
+            "name": "Написать нам"
+          }
+        }
+      }
+    }
+  }
+}

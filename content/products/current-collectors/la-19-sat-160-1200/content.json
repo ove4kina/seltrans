@@ -1,0 +1,124 @@
+{
+  "content": {
+    "id": "",
+    "name": "Токоприемник «ЛA 19-СЭТ 160 1200»",
+    "url": "la-19-sat-160-1200",
+    "gallery": [
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/1.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/2.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/3.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/4.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/5.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/6.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/7.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/8.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/9.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/10.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/11.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/12.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/13.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/14.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/15.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/16.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/17.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/18.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/19.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/20.png",
+        "alt": ""
+      },
+      {
+        "src": "/img/products/current-collectors/la-19-sat-160-1200/21.png",
+        "alt": ""
+      }
+    ],
+    "trains": [
+      {
+        "name": "ЭС2Г",
+        "avatar": "/img/articles/trains/2es7.jpg",
+        "tags": [
+          {
+            "name": "ЭПС"
+          },
+          {
+            "name": "Наши клиенты"
+          }
+        ]
+      },
+      {
+        "name": "ЭС1",
+        "avatar": "/img/articles/trains/es1.jpg",
+        "tags": [
+          {
+            "name": "ЭПС"
+          },
+          {
+            "name": "Наши клиенты"
+          }
+        ]
+      }
+    ],
+    "description": "<p>Тяговый электрический аппарат, предназначенный для создания электрического контакта электрооборудования подвижного состава (ЭПС) с контактной сетью.</p><p>Снабжен системами автоматического опускания, срабатывающей при поднятии токоприемника на высоту более 7000 мм над уровнем головки рельса и разрушении вставок полоза.</p><p>Снимаемый ток до 1200 А при движении и до 300 А на стоянке, от контактной сети напряжением 3000 В постоянного тока и 27 кВ переменного тока и скорости движения ЭПС до 160 км/ч.</p>",
+    "meta": {
+      "title": "Модель ЛA 19-СЭТ 160 1200",
+      "meta": "<meta name=\"keywords\" content=\"\"><meta name=\"description\" content=\"\">"
+    }
+  }
+}

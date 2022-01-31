@@ -1,0 +1,40 @@
+{
+  "content": {
+    "en": {
+      "meta": {
+        "title": "Contacts",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "Contacts",
+        "address": "Address",
+        "phone": "Phone",
+        "email": "E-mail",
+        "manager": {
+          "name": "Pavel Gudkov",
+          "title": "Account Manager",
+          "phone": "+7 (926) 975-76-17",
+          "email": "gudkov@seltrans.ru"
+        }
+      }
+    },
+    "ru": {
+      "meta": {
+        "title": "Контакты",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "title": "Контакты",
+        "address": "Адрес",
+        "phone": "Телефон",
+        "email": "Электронная почта",
+        "manager": {
+          "name": "Павел Игоревич Гудков",
+          "title": "Менеджер по работе с клиентами",
+          "phone": "+7 (926) 975-76-17",
+          "email": "gudkov@seltrans.ru"
+        }
+      }
+    }
+  }
+}

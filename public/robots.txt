@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /en/privacy
+Disallow: /ru/privacy
+
+User-agent: Yandex
+Disallow: /en/privacy
+Disallow: /ru/privacy
+Host: seltrans.ru
+sitemap: https://seltrans.ru/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /en/privacy
+Disallow: /ru/privacy

@@ -1,0 +1,150 @@
+body {
+    font-size: 14px;
+    -webkit-font-smoothing: antialiased;
+    font-family: reg;
+    background-color: #fff; //-webkit-transform: translateZ(0);
+    -webkit-backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    min-width: 320px;
+    @media (min-width: 1200px) {
+        box-sizing: border-box;
+    }
+}
+html{
+    @media(min-width: 1200px){
+        font-size: 12px;
+    }
+    @media(min-width: 1300px){
+        font-size: 13px;
+    }
+    @media(min-width: 1400px){
+        font-size: 14px;
+    }
+    @media(min-width: 1500px){
+        font-size: 15px;
+    }
+    @media(min-width: 1600px){
+        font-size: 16px;
+    }
+    @media(min-width: 1700px){
+        font-size: 17px;
+    }
+    @media(min-width: 1800px){
+        font-size: 18px;
+    }
+    @media(min-width: 1920px){
+        font-size: 19.2px;
+    }
+}
+
+.button {
+    border: none;
+    cursor: pointer;
+    font-family: 'reg';
+    background: none;
+    padding: 0;
+}
+button{
+    border: none;
+    padding: 0;
+}
+
+*:focus {
+    outline: none;
+}
+
+.text {
+    &>*+* {
+        margin-top: 15px;
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+.ymap-container,.vue-google-map,.map-view {
+    height: 100%;
+    width: 100%;
+}
+
+.progress {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 2px;
+    width: 0%;
+    transition: width 0.9s, opacity 0.4s;
+    opacity: 1;
+    background-color: #efc14e;
+    z-index: 999999;
+}
+
+.panel {
+    display: flex;
+    position:fixed;
+    z-index: 99999;
+    background-color: rgba(0,0,0,0.8);
+    width:100%;
+    font-size: 36px;
+    padding: 10px 0;
+    top:0;
+    left:0;
+}
+.notification {
+    position: fixed;
+    border-radius: 1px;
+    top: 10%;
+    right: 5%;
+    width: auto;
+    padding: 20px 10px;
+    opacity: 0;
+    pointer-events: none;
+    transition: all .3s ease;
+    transform: translate(40px, 0);
+    &.active {
+        opacity: 1;
+        pointer-events: all;
+        transform: none;
+    }
+    &--error {
+        background-color: #ea0000;
+    }
+    &--success {
+        background-color: #00bb00;
+    }
+}
+.editor-red {
+    /*outline: 1px solid red;*/
+    border-bottom: 1px solid red;
+}
+.editable-text{
+    position: relative;
+}
+.glvrd-box{
+    position: absolute;
+    left: 0;
+    top: 100%;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    font-size: 14px;
+    color: #000;
+    a{
+        border-bottom: 1px solid rgba(0,0,0,0.5);
+        color: #000;
+        padding-bottom: 2px;
+    }
+    p,a{
+        display: inline-block;
+    }
+    p+p{
+        margin-left: 15px;
+    }
+    p +a{
+        margin-left: 15px;
+    }
+}

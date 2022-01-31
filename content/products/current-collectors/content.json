@@ -1,0 +1,540 @@
+{
+  "content": {
+    "en": {
+      "meta": {
+        "title": "Current-collecting equipment",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "placeholderUrl": "/img/products/current-collectors/tok-placeholder.png",
+        "title": "Current collector",
+        "hideButton": "Show more",
+        "description": "<p>A device provides the process of transmitting electricity through a sliding contact.<\/p><p>The current collector must ensure the transfer of current through a sliding contact up to 3.2 kA per rail lines that electrified on direct current with a voltage of 3 kV and up to 1.2 kA - on alternating current with a voltage of 25 kV.<\/p><p>The main requirement for the current collector is to ensure stable pressing in the sliding contact, since an increase in pressing leads to increased mechanical wear. A decrease leads avulsions, i.e., to increased electrical wear of the contact wire and current collecting elements.<\/p><p>Similar functions perform current collectors urban ERS.<\/p><p>The advantages of our current collectors:<\/p><ul><li>Permissible continuous current 3200A;<\/li><li>Low reduced mass;<\/li><li>High transverse and longitudinal stiffness eliminate resonance phenomena during the movement of ERS;<\/li><li>An opportunity of using on ERS with speeds of up to 160 km/h;<\/li><li>Exploitation in the temperature range from -50 to +50 °С;<\/li><li>Low life of cycle cost.<\/li><\/ul>",
+        "filterName": "Show:",
+        "products": [
+          {
+            "name": "Current collector TA 09-SET 160 3200",
+            "url": "\/en\/products\/current-collectors\/ta-09-sat-160-3200",
+            "avatar": "\/img\/products\/current-collectors\/ta-09-sat-160-3200\/avatar.png",
+            "description": "The top node, which includes two three-row runners, allows you to shoot current up to 3200 А.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ERS",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Current collector TA 11-SET 160 2400",
+            "url": "\/en\/products\/current-collectors\/ta-11-sat-160-2400",
+            "avatar": "\/img\/products\/current-collectors\/ta-11-sat-160-2400\/avatar.png",
+            "description": "The top node, which includes two three-row runners, allows you to shoot current up to 2400 А.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ERS",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Current collector TA 16-SET 160 2400",
+            "url": "\/en\/products\/current-collectors\/ta-16-sat-160-2400",
+            "avatar": "\/img\/products\/current-collectors\/ta-16-sat-160-2400\/avatar.png",
+            "description": "Equipped with automatic lowering systems, which are triggered when the current collector is raised to a height of more than 7000 mm above the railhead level. Besides, they are triggered when the runner inserts begin to collapse.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ERS",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Current collector LA 14-SET 160 800",
+            "url": "\/en\/products\/current-collectors\/la-14-sat-160-800",
+            "avatar": "\/img\/products\/current-collectors\/la-14-sat-160-800\/avatar.png",
+            "description": "Equipped with automatic lowering systems, which are triggered when the current collector is raised to a height of more than 7000 mm above the railhead level. Besides, they are triggered when the runner inserts begin to collapse.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": []
+          },
+          {
+            "name": "Current collector LA 17-SET 160 1200",
+            "url": "\/en\/products\/current-collectors\/la-17-sat-160-1200",
+            "avatar": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/avatar.png",
+            "description": "Equipped with automatic lowering systems, which are triggered when the current collector is raised to a height of more than 7000 mm above the railhead level. Besides, they are triggered when the runner inserts begin to collapse.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ERS",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Current collector LA 19-SET 160 1200",
+            "url": "\/en\/products\/current-collectors\/la-19-sat-160-1200",
+            "avatar": "\/img\/products\/current-collectors\/la-19-sat-160-1200\/avatar.png",
+            "description": "Equipped with automatic lowering systems, which are triggered when the current collector is raised to a height of more than 7000 mm above the railhead level. Besides, they are triggered when the runner inserts begin to collapse.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ERS",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Current collector LA 19-21-SET 155 800",
+            "url": "\/en\/products\/current-collectors\/la-19-21-sat-155-800",
+            "avatar": "\/img\/products\/current-collectors\/la-19-21-sat-155-800\/avatar.png",
+            "description": "The control panel of the current collector is located in the body of the ERS. Equipped with automatic lowering systems, which are triggered when the current collector is raised to a height of more than 7000 mm above the railhead level. They have a small size (no more than 340 mm) in the folded position.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ERS",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Current collector LA 19-22-SET 155 800",
+            "url": "\/en\/products\/current-collectors\/la-19-22-sat-155-800",
+            "avatar": "\/img\/products\/current-collectors\/la-19-22-sat-155-800\/avatar.png",
+            "description": "The removable current has up to 800 A when moving and up to 250 A in the parking place, from a contact network with a voltage of 27 kV and an ERS speed of up to 155 km\/h.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ERS",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Current collector LA 20-SET 160 1200",
+            "url": "\/en\/products\/current-collectors\/la-20-sat-160-1200",
+            "avatar": "\/img\/products\/current-collectors\/la-20-sat-160-1200\/avatar.png",
+            "description": "The removable current has up to 1200 A when moving and up to 300 A in the parking place, from a contact network with a voltage of 3000 V DC and 27 kV AC and speed of ERS movement up to 160 km/h.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ERS",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Current collector TrA 01-SET 90",
+            "url": "\/en\/products\/current-collectors\/tra-01-set-90",
+            "avatar": "\/img\/products\/current-collectors\/tra-01-set-90\/avatar.png",
+            "description": "The maximum admissible continuous current is up to 800 A when moving at speeds up to 90 km/h or up to 160 A when parked. The nominal voltage of the overhead contact system is 550 V.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "Tram",
+                "id": 2,
+                "class": "yellow"
+              }
+            ]
+          },
+          {
+            "name": "Current collector TrA 02-sat-90",
+            "url": "\/en\/products\/current-collectors\/tra-02-sat-90",
+            "avatar": "\/img\/products\/current-collectors\/tra-02-sat-90\/avatar.png",
+            "description": "The maximum admissible continuous current is up to 800 A when moving at speeds up to 90 km/h or up to 160 A when parked. The nominal voltage of the overhead contact system is 550 V.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "Tram",
+                "id": 2,
+                "class": "yellow"
+              }
+            ]
+          },
+          {
+            "name": "Current collector TrA 03-sat-90",
+            "url": "\/en\/products\/current-collectors\/tra-03-sat-90",
+            "avatar": "\/img\/products\/current-collectors\/tra-03-sat-90\/avatar.png",
+            "description": "The maximum admissible continuous current is up to 800 A when moving at speeds up to 90 km/h or up to 160 A when parked. The nominal voltage of the overhead contact system is 550 V.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "Tram",
+                "id": 2,
+                "class": "yellow"
+              }
+            ]
+          },
+          {
+            "name": "Current collector TrA 04-sat-90",
+            "url": "\/en\/products\/current-collectors\/tra-04-sat-90",
+            "avatar": "\/img\/products\/current-collectors\/tra-04-sat-90\/avatar.png",
+            "description": "The maximum admissible continuous current is up to 800 A when moving at speeds up to 90 km/h or up to 160 A when parked. The nominal voltage of the overhead contact system is 550 V.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "Tram",
+                "id": 2,
+                "class": "yellow"
+              }
+            ]
+          }
+        ],
+        "setup": {
+          "title": "Current-collector system",
+          "description": "A current collector for railway electric rolling stock consists of the following elements:",
+          "buttonClass": "collectors",
+          "photoDirectory": "current-collectors",
+          "parts": [
+            {
+              "name": "Base",
+              "description": "<p>Serve to mount the current collector on insulators mounted on the roof of an electric rolling stock.<\/p>",
+              "id": "1"
+            },
+            {
+              "name": "The current collector frame",
+              "description": "<p>Is the moveable part of the current collector, which provides vertical movement of the runner and transmits the pressing force from the lifting mechanism to the runner of the current collector.<\/p>",
+              "id": "2"
+            },
+            {
+              "name": "Runner of the current collector",
+              "description": "<p>Is a spring borne upper node of the current collector, interacting with the contact wire.<\/p>",
+              "id": "4"
+            },
+            {
+              "name": "A current collecting element",
+              "description": "<p>Is a runner's element, which provides a sliding contact on the wire.<\/p>",
+              "id": "3"
+            },
+            {
+              "name": "Сarriage",
+              "description": "<p>Is a сurrent collector element, which provides the cushioning of the runner relative to the frame.<\/p>",
+              "id": "5"
+            },
+            {
+              "name": "Lifting mechanism",
+              "description": "<p>Serve for lifting the runner from the folded position to the contact wire and taking over the loads acting on the runner.<\/p>",
+              "id": "6"
+            }
+          ]
+        }
+      }
+    },
+    "ru": {
+      "meta": {
+        "title": "Токосъемное оборудование",
+        "meta": "<meta name=\"description\" content=\"\"\/>"
+      },
+      "text": {
+        "placeholderUrl": "/img/products/current-collectors/tok-placeholder.png",
+        "title": "Токоприемник",
+        "hideButton": "Раскрыть",
+        "description": "<p>Устройство, обеспечивающее процесс передачи электроэнергии через скользящий контакт.<\/p><p>Токоприемник должен обеспечить передачу тока через скользящий контакт величиной до 3,2-кА на ж.д. линиях, электрифицированных на постоянном токе напряжением 3 кВ и до 1,2-кА — на переменном токе напряжением 25 кВ.<\/p><p>Основное требование к токоприемнику — обеспечение стабильного нажатия в скользящем контакте, поскольку увеличение нажатия приводит к повышенному механическому износу, а снижение — к отрывам, т. е. к повышенному электрическому износу контактного провода и токосъёмных элементов.<\/p><p>Аналогичные функции выполняют токоприёмники городского ЭПС.<\/p><p>Преимущества наших токоприемников:<\/p><ul><li>Допустимый длительный ток 3200А;<\/li><li>Малая приведенная масса;<\/li><li>Высокая поперечная и продольная жесткость, исключающая резонансные явления при движении ЭПС;<\/li><li>Возможность применения на ЭПС со скоростями движения до 160 км/ч;<\/li><li>Эксплуатация в температурном диапазоне от -50 до +50 °С;<\/li><li>Низкая стоимость жизненного цикла.<\/li><\/ul>",
+        "filterName": "По назначению:",
+        "products": [
+          {
+            "name": "Токоприемник ТА 09-СЭТ 160 3200",
+            "url": "\/ru\/products\/current-collectors\/ta-09-sat-160-3200",
+            "avatar": "\/img\/products\/current-collectors\/ta-09-sat-160-3200\/avatar.png",
+            "description": "Верхний узел, включающий два трехрядных полоза, позволяет снимать ток до 3200 А.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ЭПС",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Токоприемник ТА 11-СЭТ 160 2400",
+            "url": "\/ru\/products\/current-collectors\/ta-11-sat-160-2400",
+            "avatar": "\/img\/products\/current-collectors\/ta-11-sat-160-2400\/avatar.png",
+            "description": "Верхний узел, включающий четырехрядный полоз, позволяет снимать ток до 2400 А.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ЭПС",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Токоприемник ТA 16-СЭТ 160 2400",
+            "url": "\/ru\/products\/current-collectors\/ta-16-sat-160-2400",
+            "avatar": "\/img\/products\/current-collectors\/ta-16-sat-160-2400\/avatar.png",
+            "description": "Снабжен системами автоматического опускания, срабатывающей при поднятии токоприемника на высоту более 7000 мм над уровнем головки рельса и разрушении вставок полоза.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ЭПС",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Токоприемник ЛА 14-СЭТ 160 800",
+            "url": "\/ru\/products\/current-collectors\/la-14-sat-160-800",
+            "avatar": "\/img\/products\/current-collectors\/la-14-sat-160-800\/avatar.png",
+            "description": "Верхний узел, включающий четырехрядный полоз, позволяет снимать ток до 2400 А.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": []
+          },
+          {
+            "name": "Токоприемник ЛA 17-СЭТ 160 1200",
+            "url": "\/ru\/products\/current-collectors\/la-17-sat-160-1200",
+            "avatar": "\/img\/products\/current-collectors\/la-17-sat-160-1200\/avatar.png",
+            "description": "Снабжен системой автоматического опускания, срабатывающей при поднятии токоприемника на высоту более 7000 мм над уровнем головки рельса и разрушении вставок полоза.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ЭПС",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Токоприемник ЛA 19-СЭТ 160 1200",
+            "url": "\/ru\/products\/current-collectors\/la-19-sat-160-1200",
+            "avatar": "\/img\/products\/current-collectors\/la-19-sat-160-1200\/avatar.png",
+            "description": "Снабжен системой автоматического опускания, срабатывающей при поднятии токоприемника на высоту более 7000 мм над уровнем головки рельса и разрушении вставок полоза.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ЭПС",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Токоприемник ЛA 19-21-СЭТ 155 800",
+            "url": "\/ru\/products\/current-collectors\/la-19-21-sat-155-800",
+            "avatar": "\/img\/products\/current-collectors\/la-19-21-sat-155-800\/avatar.png",
+            "description": "Панель управления токоприёмником расположена в кузове ЭПС. Снабжен системой автоматического опускания, срабатывающей при поднятии токоприемника на высоту более 7000 мм над уровнем головки рельса. Обладают малым габаритом (не более 340 мм) в сложенном положении",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ЭПС",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Токоприемник ЛA 19-22-СЭТ 155 800",
+            "url": "\/ru\/products\/current-collectors\/la-19-22-sat-155-800",
+            "avatar": "\/img\/products\/current-collectors\/la-19-22-sat-155-800\/avatar.png",
+            "description": "Снимаемый ток до 800 А при движении и до 250 А на стоянке, от контактной сети напряжением 27 кВ и скорости движения ЭПС до 155 км\/ч.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ЭПС",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Токоприемник ЛA 20-СЭТ 160 1200",
+            "url": "\/ru\/products\/current-collectors\/la-20-sat-160-1200",
+            "avatar": "\/img\/products\/current-collectors\/la-20-sat-160-1200\/avatar.png",
+            "description": "Снимаемый ток до 1200 А при движении и до 300 А на стоянке, от контактной сети напряжением 3000 В постоянного тока и 27 кВ переменного тока и скорости движения ЭПС до 160 км/ч.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "ЭПС",
+                "id": 1,
+                "class": "red"
+              }
+            ]
+          },
+          {
+            "name": "Токоприемник ТрА 01-СЭТ 90",
+            "url": "\/ru\/products\/current-collectors\/tra-01-set-90",
+            "avatar": "\/img/products\/current-collectors\/tra-01-set-90\/avatar.png",
+            "description": "Снимаемый допустимый длительный ток до 800 А при движении трамвая до 90 км/ч и до 160 А на стоянке от контактной сети номинальным напряжением 550 В.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "Трамвай",
+                "id": 2,
+                "class": "yellow"
+              }
+            ]
+          },
+          {
+            "name": "Токоприемник ТрА 02-СЭТ 90",
+            "url": "\/ru\/products\/current-collectors\/tra-02-sat-90",
+            "avatar": "\/img/products\/current-collectors\/tra-02-sat-90\/avatar.png",
+            "description": "Снимаемый допустимый длительный ток до 800 А при движении трамвая до 90 км/ч и до 160 А на стоянке от контактной сети номинальным напряжением 550 В.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "Трамвай",
+                "id": 2,
+                "class": "yellow"
+              }
+            ]
+          },
+          {
+            "name": "Токоприемник ТрА 03-СЭТ 90",
+            "url": "\/ru\/products\/current-collectors\/tra-03-sat-90",
+            "avatar": "\/img/products\/current-collectors\/tra-03-sat-90\/avatar.png",
+            "description": "Снимаемый допустимый длительный ток до 800 А при движении трамвая до 90 км/ч и до 160 А на стоянке от контактной сети номинальным напряжением 550 В.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "Трамвай",
+                "id": 2,
+                "class": "yellow"
+              }
+            ]
+          },
+          {
+            "name": "Токоприемник ТрА 04-СЭТ 90",
+            "url": "\/ru\/products\/current-collectors\/tra-04-sat-90",
+            "avatar": "\/img/products\/current-collectors\/tra-04-sat-90\/avatar.png",
+            "description": "Снимаемый допустимый длительный ток до 800 А при движении трамвая до 90 км/ч и до 160 А на стоянке от контактной сети номинальным напряжением 550 В.",
+            "disabled": {
+              "name": "",
+              "class": ""
+            },
+            "tags": [
+              {
+                "name": "Трамвай",
+                "id": 2,
+                "class": "yellow"
+              }
+            ]
+          }
+        ],
+        "setup": {
+          "title": "Устройство токоприемника",
+          "description": "Токоприемник для железнодорожного электроподвижного состава состоит из следующих элементов:",
+          "buttonClass": "collectors",
+          "photoDirectory": "current-collectors",
+          "parts": [
+            {
+              "name": "Основание",
+              "description": "<p>Служит для крепления токоприемника на изоляторах, установленных на крыше электроподвижного состава.<\/p>",
+              "id": "1"
+            },
+            {
+              "name": "Рама токоприемника",
+              "description": "<p>Подвижная часть токоприемника обеспечивающая вертикальное перемещения полоза и передающая силу нажатия от подъёмного механизма на полоз токоприемника.<\/p>",
+              "id": "2"
+            },
+            {
+              "name": "Полоз токоприемника",
+              "description": "<p>Подрессоренный верхний узел токоприемника, взаимодействующий с контактным проводом.<\/p>",
+              "id": "4"
+            },
+            {
+              "name": "Токосъемный элемент",
+              "description": "<p>Элемент полоза, обеспечивающий скользящий контакт по с проводом.<\/p>",
+              "id": "3"
+            },
+            {
+              "name": "Каретка",
+              "description": "<p>Элемент токоприемника, обеспечивающий подрессоривание полоза относительно рамы.<\/p>",
+              "id": "5"
+            },
+            {
+              "name": "Механизм подъема",
+              "description": "<p>Предназначена для подъема полоза из сложенного положения до контактного провода и принятия на себя действующих на полоз нагрузок.<\/p>",
+              "id": "6"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
